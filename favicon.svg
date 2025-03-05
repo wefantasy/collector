@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+	<!-- 主文件夹形状 -->
+	<path d="M10 20 L90 20 L80 80 L20 80 Z" fill="none" stroke="#3b82f6" stroke-width="3" stroke-linejoin="round" />
+	<!-- 层叠效果 -->
+	<path d="M15 15 L85 15 L75 75 L25 75 Z" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" opacity="0.7" />
+	<!-- 连接点 -->
+	<circle cx="50" cy="50" r="2" fill="#3b82f6" />
+	<line x1="50" y1="50" x2="20" y2="80" stroke="#3b82f6" stroke-width="2" />
+	<line x1="50" y1="50" x2="80" y2="80" stroke="#3b82f6" stroke-width="2" />
+</svg>
