@@ -434,14 +434,6 @@
                 "description": "本站提供了一个开放源码的MMO沙盒游戏，核心机制是编写单位的AI。玩家通过编写JavaScript代码来控制自己的殖民地，提升编程技能。"
             },
             {
-                "title": "Screeps - MMO strategy sandbox game for programmers",
-                "url": "https://screeps.com/",
-                "icon": "",
-                "categories": "编程开发",
-                "tags": "编程游戏,JavaScript,沙盒游戏,MMO",
-                "description": "本站提供了一个开放源码的MMO沙盒游戏，核心机制是编写单位的AI。玩家通过编写JavaScript代码来控制自己的殖民地，提升编程技能。"
-            },
-            {
                 "title": "扣哒世界 - 在场景化编程中学习Python，JavaScript和C++",
                 "url": "https://codecombat.com/home",
                 "icon": "",
@@ -512,6 +504,54 @@
                 "categories": "编程开发",
                 "tags": "JSON,格式化,编辑,验证,查看",
                 "description": "在线JSON工具提供强大的功能，帮助用户轻松格式化、验证、编辑和可视化JSON数据。该工具旨在提高生产力，确保数据完整性，并简化工作流程。用户可以在浏览器中快速、安全地管理JSON数据，享受便捷的操作体验。"
+            },
+            {
+                "title": "FreeFrontend",
+                "link": "https://freefrontend.com/",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "前端开发, HTML, CSS, JavaScript, 编程资源",
+                "description": "FreeFrontend是一个为前端开发者提供丰富资源的综合平台，包含HTML、CSS、JavaScript等技术的免费代码片段，助力开发者构建更优秀的网站项目。"
+            },
+            {
+                "title": "JETBRA.IN CHECKER | IPFS",
+                "link": "https://3.jetbra.in/",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "IPFS,节点检查,Jetbran,分布式存储",
+                "description": "JETBRA.IN CHECKER 是一个用于破解 JetBrains 产品的工具"
+            },
+            {
+                "title": "edge-tts: 使用微软Edge的在线文本转语音服务 - Python",
+                "link": "https://github.com/rany2/edge-tts",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "文本转语音,Python模块,微软Edge,tts,编程工具",
+                "description": "edge-tts 是一个Python模块，可使用微软Edge的在线文本转语音服务，无需微软Edge浏览器或Windows系统。"
+            },
+            {
+                "title": "正则表达式可视化-Visual Regexp：在线测试、学习、构建正则表达式",
+                "link": "https://wangwl.net/static/projects/visualRegex#",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "正则表达式,工具,在线测试,正则语法,编程辅助",
+                "description": "Visual Regexp 是一个用于正则表达式的可视化工具，提供在线测试、语法学习和正则表达式构建功能，为开发者提供便捷的编程辅助。"
+            },
+            {
+                "title": "Smithery - Model Context Protocol Registry",
+                "link": "https://smithery.ai/",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "MCP服务器,工具集成,动态路由,模型扩展,注册表",
+                "description": "Smithery 提供基于模型上下文协议的服务器集成服务，让代理具备更多能力。用户可动态路由至注册表中的所有MCP，支持配置工具回调，涵盖编程开发和任务自动化等功能，提升效率与扩展性。"
+            },
+            {
+                "title": "DeepWiki",
+                "link": "https://deepwiki.com/",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "开源,代码库,知识共享",
+                "description": "DeepWiki是一个帮助用户了解代码仓库的工具，分析仓库架构、生成架构文档，如Visual Studio Code、LangChain等热门开源项目。这是一个以知识共享为核心的开放平台。"
             }
         ]
     },
@@ -761,6 +801,14 @@
         "title": "影音娱乐",
         "type": "folder",
         "children": [
+            {
+                "title": "小鱼.🐟 | TV-LIVE",
+                "link": "https://xuanzi.ggff.net/",
+                "icon": "",
+                "categories": "影音娱乐",
+                "tags": "在线影视, 直播, 视频资源",
+                "description": "该网站提供多种在线影视和直播资源，包括流媒体观看地址及相关资源的接口链接，为用户带来丰富的视频娱乐内容。"
+            },
             {
                 "title": "Movie metadata scraper",
                 "url": "https://github.com/sqzw-x/mdcx",
@@ -1056,6 +1104,22 @@
         "type": "folder",
         "children": [
             {
+                "title": "历年国考省考公务员/事业单位/教师招聘考试/教资笔试/面试试题及答案解析-金标尺题库",
+                "link": "https://www.gwysydw.com/",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "公考,省考,事业单位,教师招聘,试题解析",
+                "description": "金标尺题库为广大用户提供历年公务员、事业单位、教师招聘考试及教资笔试面试试题和答案解析，帮助考生轻松备考，提升考试通过率。"
+            },
+            {
+                "title": "SaDuck - 免费公考知识库",
+                "link": "https://saduck.top/",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "公务员考试, 知识库, 学习技巧",
+                "description": "SaDuck提供全面覆盖的公务员考试全科目基础知识点，并融合高效学习策略，是备考的得力助手，永久免费使用。"
+            },
+            {
                 "title": "dblp: computer science bibliography",
                 "url": "https://dblp.org/",
                 "icon": "https://dblp.org/favicon.ico",
@@ -1326,6 +1390,14 @@
                 "categories": "科研教育",
                 "tags": "写作,编辑,工具,提高效率",
                 "description": "ProWritingAid 是一个帮助作家提升写作质量的工具包，提供深入分析和可操作的反馈和语法检查，支持多种写作应用，确保写作安全。"
+            },
+            {
+                "title": "程序员做饭指南",
+                "link": "https://github.com/Anduin2017/HowToCook",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "菜谱,程序员烹饪,开源项目,食品安全,社区维护",
+                "description": "一个针对程序员的家常菜烹饪指南，通过清晰精准的菜谱描述，让程序员在家做饭更加方便。该项目由社区驱动，提供从基础到高级的烹饪技巧，并支持本地部署及PDF下载，涵盖食品安全等多方面知识。"
             }
         ]
     },
@@ -1546,6 +1618,22 @@
                 "categories": "论坛资讯",
                 "tags": "独立开发者,开源项目,中国",
                 "description": "1000个中国独立开发者项目汇总，展示了中国独立开发者的优秀作品，提供灵感、市场趋势和合作机会。"
+            },
+            {
+                "title": "车质网 - 第三方汽车投诉处理及品质评价平台",
+                "link": "https://www.12365auto.com/",
+                "icon": "",
+                "categories": "论坛资讯",
+                "tags": "汽车投诉, 品质评价, 汽车资讯, 用户反馈",
+                "description": "车质网是一个专注于汽车投诉处理和品质评价的第三方平台，提供汽车资讯、用户投诉、缺陷报道以及车型对比等服务，帮助消费者了解汽车质量问题并提供解决方案。"
+            },
+            {
+                "title": "医保政策导航",
+                "link": "https://yibao.233h.com/",
+                "icon": "",
+                "categories": "论坛资讯",
+                "tags": "医保政策,居民职工报销,政策查询,地区分类,特殊群体指南",
+                "description": "一站式医保政策查询平台，提供基础知识、参保指南及政策详解，涵盖地区分类、常见问题解答和特殊群体使用指南，方便用户快速查找并了解医保相关信息。"
             }
         ]
     },
