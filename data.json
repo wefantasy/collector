@@ -507,7 +507,7 @@
             },
             {
                 "title": "FreeFrontend",
-                "link": "https://freefrontend.com/",
+                "url": "https://freefrontend.com/",
                 "icon": "",
                 "categories": "编程开发",
                 "tags": "前端开发, HTML, CSS, JavaScript, 编程资源",
@@ -515,7 +515,7 @@
             },
             {
                 "title": "JETBRA.IN CHECKER | IPFS",
-                "link": "https://3.jetbra.in/",
+                "url": "https://3.jetbra.in/",
                 "icon": "",
                 "categories": "编程开发",
                 "tags": "IPFS,节点检查,Jetbran,分布式存储",
@@ -523,7 +523,7 @@
             },
             {
                 "title": "edge-tts: 使用微软Edge的在线文本转语音服务 - Python",
-                "link": "https://github.com/rany2/edge-tts",
+                "url": "https://github.com/rany2/edge-tts",
                 "icon": "",
                 "categories": "编程开发",
                 "tags": "文本转语音,Python模块,微软Edge,tts,编程工具",
@@ -531,7 +531,7 @@
             },
             {
                 "title": "正则表达式可视化-Visual Regexp：在线测试、学习、构建正则表达式",
-                "link": "https://wangwl.net/static/projects/visualRegex#",
+                "url": "https://wangwl.net/static/projects/visualRegex#",
                 "icon": "",
                 "categories": "编程开发",
                 "tags": "正则表达式,工具,在线测试,正则语法,编程辅助",
@@ -539,7 +539,7 @@
             },
             {
                 "title": "Smithery - Model Context Protocol Registry",
-                "link": "https://smithery.ai/",
+                "url": "https://smithery.ai/",
                 "icon": "",
                 "categories": "编程开发",
                 "tags": "MCP服务器,工具集成,动态路由,模型扩展,注册表",
@@ -547,7 +547,7 @@
             },
             {
                 "title": "DeepWiki",
-                "link": "https://deepwiki.com/",
+                "url": "https://deepwiki.com/",
                 "icon": "",
                 "categories": "编程开发",
                 "tags": "开源,代码库,知识共享",
@@ -803,7 +803,7 @@
         "children": [
             {
                 "title": "小鱼.🐟 | TV-LIVE",
-                "link": "https://xuanzi.ggff.net/",
+                "url": "https://xuanzi.ggff.net/",
                 "icon": "",
                 "categories": "影音娱乐",
                 "tags": "在线影视, 直播, 视频资源",
@@ -1105,7 +1105,7 @@
         "children": [
             {
                 "title": "历年国考省考公务员/事业单位/教师招聘考试/教资笔试/面试试题及答案解析-金标尺题库",
-                "link": "https://www.gwysydw.com/",
+                "url": "https://www.gwysydw.com/",
                 "icon": "",
                 "categories": "科研教育",
                 "tags": "公考,省考,事业单位,教师招聘,试题解析",
@@ -1113,7 +1113,7 @@
             },
             {
                 "title": "SaDuck - 免费公考知识库",
-                "link": "https://saduck.top/",
+                "url": "https://saduck.top/",
                 "icon": "",
                 "categories": "科研教育",
                 "tags": "公务员考试, 知识库, 学习技巧",
@@ -1393,7 +1393,7 @@
             },
             {
                 "title": "程序员做饭指南",
-                "link": "https://github.com/Anduin2017/HowToCook",
+                "url": "https://github.com/Anduin2017/HowToCook",
                 "icon": "",
                 "categories": "科研教育",
                 "tags": "菜谱,程序员烹饪,开源项目,食品安全,社区维护",
@@ -1621,7 +1621,7 @@
             },
             {
                 "title": "车质网 - 第三方汽车投诉处理及品质评价平台",
-                "link": "https://www.12365auto.com/",
+                "url": "https://www.12365auto.com/",
                 "icon": "",
                 "categories": "论坛资讯",
                 "tags": "汽车投诉, 品质评价, 汽车资讯, 用户反馈",
@@ -1629,7 +1629,7 @@
             },
             {
                 "title": "医保政策导航",
-                "link": "https://yibao.233h.com/",
+                "url": "https://yibao.233h.com/",
                 "icon": "",
                 "categories": "论坛资讯",
                 "tags": "医保政策,居民职工报销,政策查询,地区分类,特殊群体指南",
