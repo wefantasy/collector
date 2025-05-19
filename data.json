@@ -1,0 +1,1817 @@
+[
+    {
+        "title": "生活办公",
+        "type": "folder",
+        "children": [
+            {
+                "title": "深言达意 – 找词找句",
+                "url": "https://www.shenyandayi.com/",
+                "icon": "",
+                "categories": "生活办公",
+                "tags": "词汇检索,句子查找,素材库,AI辅助,写作工具",
+                "description": "深言达意是一个提供词汇检索和句子查找的在线平台，帮助用户快速找到合适的词语和句子，提升写作效率。"
+            },
+            {
+                "title": "LocalSend: 开源跨平台的AirDrop替代方案",
+                "url": "https://github.com/localsend/localsend",
+                "icon": "https://github.com/favicon.ico",
+                "categories": "生活办公",
+                "tags": "文件共享,开源,跨平台,局域网,安全通信",
+                "description": "LocalSend是一款免费开源的应用程序，允许您通过本地网络在附近设备之间安全地共享文件和消息，无需互联网连接。"
+            },
+            {
+                "title": "Weawow - Weather forecast & Photos",
+                "url": "https://weawow.com/",
+                "icon": "",
+                "categories": "生活办公",
+                "tags": "天气预报,照片分享,天气小部件,气象服务",
+                "description": "Weawow是一款提供天气预报和照片分享服务的网站，用户可以查看实时天气信息，并上传和分享与天气相关的照片。"
+            },
+            {
+                "title": "Syncthing",
+                "url": "https://syncthing.net/",
+                "icon": "https://syncthing.net/img/favicon.png",
+                "categories": "生活办公",
+                "tags": "文件同步,数据安全,开源软件",
+                "description": "Syncthing 是一个持续文件同步程序。它在两台或多台计算机之间实时同步文件，确保数据安全，不会被窥探。"
+            },
+            {
+                "title": "万彩办公大师官网-免费的办公工具百宝箱OfficeBox,绿色无广告无捆绑",
+                "url": "https://www.wofficebox.com/",
+                "icon": "http://www.wofficebox.com/favicon.ico",
+                "categories": "生活办公",
+                "tags": "办公工具,PDF工具,格式转换,图片处理,文件处理",
+                "description": "万彩办公大师是一款免费的办公工具百宝箱，集合了60多个无广告的小工具，涵盖PDF处理、格式转换、图片编辑、文件处理等多种功能，适合各种办公需求。"
+            },
+            {
+                "title": "uTools官网 - 新一代效率工具平台",
+                "url": "https://u.tools/",
+                "icon": "https://u.tools/favicon.ico",
+                "categories": "生活办公",
+                "tags": "效率工具,插件,文件搜索,翻译,OCR,Markdown",
+                "description": "uTools 是一个新一代的效率工具平台，提供多种插件应用，如本地文件搜索、在线翻译、OCR文字识别、Markdown笔记等，帮助用户提升工作效率。"
+            },
+            {
+                "title": "Pushbullet - Your devices working better together",
+                "url": "https://www.pushbullet.com/",
+                "icon": "https://www.pushbullet.com/favicon.ico",
+                "categories": "生活办公",
+                "tags": "设备连接,通知同步,文件传输,消息发送",
+                "description": "Pushbullet 连接您的设备，使它们感觉像一个整体。您可以在电脑上发送和接收短信，查看手机通知，分享链接，聊天，发送文件等。"
+            },
+            {
+                "title": "OpenStreetMap",
+                "url": "https://www.openstreetmap.org/about",
+                "icon": "",
+                "categories": "生活办公",
+                "tags": "地图,开源,社区,地理信息系统",
+                "description": "OpenStreetMap 是一个由地图制作爱好者组成的社区，提供并维护世界各地关于道路、小道、咖啡馆、铁路车站等各种各样的数据。它强调使用本地知识，社区驱动，并且数据开放。"
+            },
+            {
+                "title": "FreshRSS: A free, self-hostable news aggregator",
+                "url": "https://github.com/FreshRSS/FreshRSS",
+                "icon": "",
+                "categories": "生活办公",
+                "tags": "RSS,自托管,新闻聚合,多用户,自定义标签,API,命令行接口,WebSub,推送通知,Web抓取,JSON文档,HTML,OPML,登录方法,扩展",
+                "description": "FreshRSS 是一个自托管的 RSS 聚合器。它轻量、易用、功能强大且可定制。支持多用户和匿名阅读模式，提供 API 和命令行接口，支持 WebSub 标准和基本的 Web 抓取，能够接收来自兼容源的即时推送通知。"
+            },
+            {
+                "title": "多寻地图 - 高铁、公交线路辐射图",
+                "url": "https://bus.daibor.com/",
+                "icon": "",
+                "categories": "生活办公",
+                "tags": "高铁,公交,线路,辐射图",
+                "description": "多寻地图提供高铁和公交线路的辐射图，帮助用户查找和规划出行路线。"
+            },
+            {
+                "title": "Reactive Resume: 一个独特的简历生成器，注重隐私，完全安全、可定制、便携、开源且永久免费",
+                "url": "https://github.com/AmruthPillai/Reactive-Resume",
+                "icon": "",
+                "categories": "生活办公",
+                "tags": "简历生成器,开源,隐私保护,自定义,多语言",
+                "description": "Reactive Resume 是一个免费且开源的简历生成器，简化了创建、更新和分享简历的过程。平台注重用户隐私，无广告追踪，支持多语言，提供实时编辑、拖放自定义、与OpenAI集成等功能。用户可以通过个性化链接分享简历，并跟踪其浏览和下载情况。"
+            },
+            {
+                "title": "一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆",
+                "url": "https://github.com/ZCShou/GoGoGo",
+                "icon": "",
+                "categories": "生活办公",
+                "tags": "虚拟定位,安卓,摇杆,百度地图,调试API",
+                "description": "影梭是一个基于 Android 调试 API + 百度地图及定位 SDK 实现的安卓定位修改工具，并且同时实现了一个可以自由控制移动的摇杆。使用影梭，不需要 ROOT 权限就可以随意修改自己的当前位置以及模拟移动。"
+            },
+            {
+                "title": "Macro Recorder for Windows/Mac - No more repetitive tasks",
+                "url": "https://www.macrorecorder.com/",
+                "icon": "https://www.macrorecorder.com/site/assets/files/1226/mrc_favicon.57x57.png",
+                "categories": "生活办公",
+                "tags": "宏录制,自动化,鼠标键盘录制,桌面自动化",
+                "description": "Macro Recorder 是一款适用于 Windows 和 Mac 的桌面自动化软件。它可以捕捉鼠标事件和按键操作，帮助用户自动化重复性任务。该软件还集成了 OpenAI/ChatGPT 和自托管的 Ollama AI，以增强自动化功能。"
+            },
+            {
+                "title": "在线麦克风测试",
+                "url": "https://www.onlinemictest.com/zh/",
+                "icon": "",
+                "categories": "生活办公",
+                "tags": "麦克风测试,在线工具,故障排除",
+                "description": "使用此在线工具检测您的麦克风是否设置正确。该网站提供简单有效的方法来快速测试麦克风，并提供故障排除指南。"
+            },
+            {
+                "title": "huginn/huginn: Create agents that monitor and act on your behalf.",
+                "url": "https://github.com/huginn/huginn",
+                "icon": "",
+                "categories": "生活办公",
+                "tags": "自动化,监控,数据处理",
+                "description": "Huginn 是一个构建代理系统的工具，可以为您在线执行自动化任务。它可以读取网页、监控事件并代表您采取行动。"
+            },
+            {
+                "title": "imfile-io/imfile-desktop: A full-featured download manager.",
+                "url": "https://github.com/imfile-io/imfile-desktop",
+                "icon": "",
+                "categories": "生活办公",
+                "tags": "下载管理,开源软件,多线程下载",
+                "description": "imFile 是一个功能齐全的下载管理器，支持 HTTP、FTP、BitTorrent、Magnet 等多种下载协议。界面简洁易用，支持多任务并发下载、速度限制、自动更新追踪器列表等功能。"
+            },
+            {
+                "title": "Ashinch/ReadYou: An Android RSS reader presented in Material You style.",
+                "url": "https://github.com/Ashinch/ReadYou",
+                "icon": "https://github.com/favicon.ico",
+                "categories": "生活办公",
+                "tags": "RSS阅读器,安卓,Material You,开源",
+                "description": "Read You 是一个以 Material You 风格呈现的 Android RSS 阅读器。它支持订阅 RSS 链接、导入或导出 OPML 文件、新文章通知、文章可读性优化、全文解析、多账户支持、Bionic Reading、朗读功能和 Android 小部件等。"
+            },
+            {
+                "title": "Calibre - 电子书管理",
+                "url": "https://calibre-ebook.com/",
+                "icon": "https://calibre-ebook.com/favicon.png",
+                "categories": "生活办公",
+                "tags": "电子书,管理,阅读",
+                "description": "Calibre 是一个功能强大的电子书管理软件，支持电子书的下载、管理、转换和阅读。"
+            },
+            {
+                "title": "一键导出PC微信聊天记录工具",
+                "url": "https://github.com/git-jiadong/wechatDataBackup",
+                "icon": "",
+                "categories": "生活办公",
+                "tags": "微信,聊天记录,导出工具",
+                "description": "wechatDataBackup 是一个基于wails开发的PC微信聊天记录导出工具，支持图片、视频、链接、语音、文件等多种消息类型的导出，并提供按类型、日期、群成员等多种检索方式。"
+            },
+            {
+                "title": "PDF to Markdown with vision models",
+                "url": "https://github.com/getomni-ai/zerox",
+                "icon": "",
+                "categories": "生活办公",
+                "tags": "OCR,PDF,Markdown,视觉模型,开源",
+                "description": "Zerox 是一个开源项目，提供了一种简单的方法将 PDF、DOCX、图片等文件转换为 Markdown 格式。它使用视觉模型进行 OCR 处理，支持 Node 和 Python 包。"
+            },
+            {
+                "title": "Focalboard: 开源自托管项目管理工具",
+                "url": "https://github.com/mattermost-community/focalboard?tab=readme-ov-file",
+                "icon": "",
+                "categories": "生活办公",
+                "tags": "开源,项目管理,自托管,Trello替代品,Notion替代品,Asana替代品",
+                "description": "Focalboard 是一个开源的、多语言的、自托管的项目管理工具，是 Trello、Notion 和 Asana 的替代品。它帮助个人和团队定义、组织、跟踪和管理工作。"
+            },
+            {
+                "title": "全球液晶屏交易中心 - 屏库",
+                "url": "https://www.panelook.cn/index_cn.php",
+                "icon": "https://www.panelook.cn/favicon.ico",
+                "categories": "生活办公",
+                "tags": "液晶屏,显示模组,工业显示",
+                "description": "屏库是一个全球液晶屏交易中心，提供各种液晶屏、显示模组、触摸屏等产品的销售和采购服务，适用于工业显示、商业显示等多种应用场景。"
+            },
+            {
+                "title": "医保政策导航",
+                "url": "https://yibao.233h.com/",
+                "icon": "",
+                "categories": "生活办公",
+                "tags": "医保政策,居民职工报销,政策查询,地区分类,特殊群体指南",
+                "description": "一站式医保政策查询平台，提供基础知识、参保指南及政策详解，涵盖地区分类、常见问题解答和特殊群体使用指南，方便用户快速查找并了解医保相关信息。"
+            }
+        ]
+    },
+    {
+        "title": "编程开发",
+        "type": "folder",
+        "children": [
+            {
+                "title": "Golang",
+                "type": "folder",
+                "children": [
+                    {
+                        "title": "《Go语言定制指南》",
+                        "url": "https://github.com/chai2010/go-ast-book",
+                        "icon": "",
+                        "categories": "编程开发",
+                        "tags": "Go语言,语法树,编程,开源",
+                        "description": "《Go语言定制指南》是一本开源免费图书，介绍了Go语言语法树的相关知识和使用方法，适合有一定Go语言基础的开发者阅读。"
+                    },
+                    {
+                        "title": "Go 程序员面试笔试宝典",
+                        "url": "https://golang.design/go-questions/",
+                        "icon": "",
+                        "categories": "编程开发",
+                        "tags": "Go语言,面试,笔试,编程,开发",
+                        "description": "本站包含了《Go 程序员面试笔试宝典》纸质版图书中的部分内容、对纸质版图书内容的部分更新以及勘误。推荐读者购买实体书籍配合本站共同使用。"
+                    },
+                    {
+                        "title": "《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区",
+                        "url": "https://github.com/ffhelicopter/Go42",
+                        "icon": "",
+                        "categories": "编程开发",
+                        "tags": "Go语言,编程,开发,规范,语法",
+                        "description": "《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。"
+                    },
+                    {
+                        "title": "深入Go语言之旅",
+                        "url": "https://go.cyub.vip/",
+                        "icon": "https://go.cyub.vip/favicon.png",
+                        "categories": "编程开发",
+                        "tags": "Go语言,编程,并发编程,内存管理,调度机制",
+                        "description": "《深入Go语言之旅》是一本从Go语言源码出发，分析Goroutine调度流程、通道、上下文等源码，以及defer、panic等语言特性的书籍，帮助读者更好地理解Go语言的设计与实现机制。"
+                    },
+                    {
+                        "title": "golang | 学习笔记",
+                        "url": "https://blog.haohtml.com/golang",
+                        "icon": "",
+                        "categories": "编程开发",
+                        "tags": "Golang,编程,数据结构,算法,编程语言",
+                        "description": "《golang | 学习笔记》是一个涵盖Golang编程语言的学习资源网站，提供从入门到高级的教程、命令详解、编译器原理、内存管理、并发编程等内容，帮助编程爱好者深入理解和掌握Golang。"
+                    },
+                    {
+                        "title": "前言 - Go gRPC 简明指南",
+                        "url": "https://jergoo.github.io/go-grpc-tutorial/",
+                        "icon": "https://jergoo.github.io/go-grpc-tutorial/favicon.svg",
+                        "categories": "编程开发",
+                        "tags": "gRPC,Go语言,分布式系统,编程,协议",
+                        "description": "《Go gRPC 简明指南》是一个高性能、开源、通用的 RPC 框架教程，旨在通过简单示例帮助新手快速学会使用 gRPC，内容包含 gRPC 常用功能特性及生态工具。"
+                    },
+                    {
+                        "title": "Go 语言设计与实现",
+                        "url": "https://draveness.me/golang/",
+                        "icon": "",
+                        "categories": "编程开发",
+                        "tags": "Go语言,编程,编译原理,并发编程,内存管理",
+                        "description": "《Go 语言设计与实现》是一本深入分析 Go 语言设计与实现原理的书籍，涵盖编译原理、运行时、基础知识和进阶知识，帮助读者全面理解 Go 语言的设计与实现。"
+                    },
+                    {
+                        "title": "前景 · Go语言中文文档",
+                        "url": "https://www.topgoer.com/",
+                        "icon": "",
+                        "categories": "编程开发",
+                        "tags": "Go语言,编程,并发编程,内存管理,调度机制",
+                        "description": "《前景 · Go语言中文文档》是一个全面的Go语言学习资源网站，涵盖从基础到高级的Go语言知识，包括并发编程、内存管理、调度机制等，帮助编程爱好者深入理解和掌握Go语言。"
+                    },
+                    {
+                        "title": "Go语言高级编程",
+                        "url": "https://chai2010.cn/advanced-go-programming-book/",
+                        "icon": "",
+                        "categories": "编程开发",
+                        "tags": "Go语言,编程,CGO,汇编语言,RPC,Web开发,分布式系统",
+                        "description": "《Go语言高级编程》是一本涵盖CGO、Go汇编语言、RPC实现、Web框架实现、分布式系统等高阶主题的书籍，适合有一定Go语言经验的开发人员深入学习。"
+                    },
+                    {
+                        "title": "最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt",
+                        "url": "https://github.com/0voice/Introduction-to-Golang",
+                        "icon": "https://github.com/favicon.ico",
+                        "categories": "编程开发",
+                        "tags": "Golang,编程,服务器端,云原生,开源框架",
+                        "description": "0voice/Introduction-to-Golang 是一个提供全面Golang资料的开源项目，包含文章、书籍、作者论文、理论分析、开源框架、云原生、大佬视频和大厂实战分享PPT，旨在帮助开发者全面学习和掌握Golang。"
+                    }
+                ]
+            },
+            {
+                "title": "Game",
+                "type": "folder",
+                "children": [
+                    {
+                        "title": "扣哒世界 - 在场景化编程中学习Python，JavaScript和C++",
+                        "url": "https://codecombat.com/home",
+                        "icon": "",
+                        "categories": "编程开发",
+                        "tags": "编程,教育,游戏化学习,AI,计算机科学",
+                        "description": "扣哒世界通过创新的游戏体验，让学生在玩乐中学习编程和人工智能。平台提供多种编程语言和AI工具，适用于教育工作者、家长和学生，涵盖从基础编程到高级计算机科学课程。"
+                    },
+                    {
+                        "title": "Grid Garden - 学习CSS Grid的游戏",
+                        "url": "https://cssgridgarden.com/",
+                        "icon": "https://cssgridgarden.com/favicon.ico",
+                        "categories": "编程开发",
+                        "tags": "CSS,编程,教育,游戏化学习,网页设计",
+                        "description": "Grid Garden 是一个通过游戏化体验学习CSS Grid布局的在线平台。用户通过编写CSS代码来种植胡萝卜，逐步掌握CSS Grid的使用技巧。适合网页设计师、前端开发者和编程爱好者。"
+                    },
+                    {
+                        "title": "Flexbox Froggy - 学习CSS Flexbox的游戏",
+                        "url": "https://flexboxfroggy.com/",
+                        "icon": "https://flexboxfroggy.com/favicon.ico",
+                        "categories": "编程开发",
+                        "tags": "CSS,编程,教育,游戏化学习,网页设计",
+                        "description": "Flexbox Froggy 是一个通过游戏化体验学习CSS Flexbox布局的在线平台。用户通过编写CSS代码来引导青蛙到达荷叶，逐步掌握CSS Flexbox的使用技巧。适合网页设计师、前端开发者和编程爱好者。"
+                    },
+                    {
+                        "title": "CheckiO - 编程游戏和挑战",
+                        "url": "https://checkio.org/",
+                        "icon": "",
+                        "categories": "编程开发",
+                        "tags": "编程游戏,Python,TypeScript,编程挑战",
+                        "description": "本站提供了一个互动式的编程游戏平台，通过有趣的挑战和任务，帮助初学者和高级程序员提升编程技能，支持Python和TypeScript。"
+                    },
+                    {
+                        "title": "Coding Games and Programming Challenges to Code Better",
+                        "url": "https://www.codingame.com/start/",
+                        "icon": "https://www.codingame.com/favicon.ico",
+                        "categories": "编程开发",
+                        "tags": "编程游戏,编程挑战,代码提升",
+                        "description": "本站提供了一个互动式的编程游戏平台，通过游戏、谜题和挑战，帮助开发者提升编程技能。支持多种编程语言，并提供虚拟逃脱室和竞争性活动。"
+                    },
+                    {
+                        "title": "Screeps - MMO strategy sandbox game for programmers",
+                        "url": "https://screeps.com/",
+                        "icon": "",
+                        "categories": "编程开发",
+                        "tags": "编程游戏,JavaScript,沙盒游戏,MMO",
+                        "description": "本站提供了一个开放源码的MMO沙盒游戏，核心机制是编写单位的AI。玩家通过编写JavaScript代码来控制自己的殖民地，提升编程技能。"
+                    }
+                ]
+            },
+            {
+                "title": "gitignore.io - 为你的项目创建必要的 .gitignore 文件",
+                "url": "https://www.toptal.com/developers/gitignore",
+                "icon": "https://www.toptal.com/developers/gitignore/img/lightning.svg",
+                "categories": "编程开发",
+                "tags": "gitignore,编程,开发,版本控制",
+                "description": "gitignore.io 是一个在线工具，可以为你的项目创建必要的 .gitignore 文件，支持多种操作系统、IDEs 和编程语言。"
+            },
+            {
+                "title": "开源许可证选择器 - 找到你的完美许可证",
+                "url": "https://open-source-license-chooser.toolsnav.top/zh/",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "开源,许可证,编程,开发",
+                "description": "开源许可证选择器是一个在线工具，通过回答一系列问题，帮助用户找到最适合其项目的开源许可证。"
+            },
+            {
+                "title": "drawdb-io/drawdb: Free, simple, and intuitive online database diagram editor and SQL generator.",
+                "url": "https://github.com/drawdb-io/drawdb",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "数据库,图表,SQL,编程,开发",
+                "description": "drawdb 是一个免费、简单且直观的在线数据库图表编辑器和 SQL 生成器。用户可以在浏览器中构建图表，导出 SQL 脚本，自定义编辑器等，无需创建账户。"
+            },
+            {
+                "title": "Compiler Explorer",
+                "url": "https://godbolt.org/",
+                "icon": "https://godbolt.org/favicon.ico",
+                "categories": "编程开发",
+                "tags": "编译器,代码,编程,开发",
+                "description": "Compiler Explorer 是一个在线工具，允许用户编写、编译和查看代码的汇编输出，支持多种编程语言和编译器。"
+            },
+            {
+                "title": "Random User Generator",
+                "url": "https://randomuser.me/",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "随机用户,API,编程,开发",
+                "description": "Random User Generator 是一个免费、开源的 API，用于生成随机用户数据，类似于 Lorem Ipsum，但用于人。"
+            },
+            {
+                "title": "NGINX配置生成器",
+                "url": "https://github.com/digitalocean/nginxconfig.io",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "NGINX,配置生成器,开源工具,DigitalOcean",
+                "description": "NGINX配置生成器是一个强大的工具，旨在帮助用户生成最佳的NGINX配置。它支持多种功能，包括HTTPS、HTTP/2、IPv6、Certbot、HSTS、安全头、SSL配置、OCSP解析、缓存、Gzip、Brotli、回退路由、反向代理、CDN、PHP、Node.js和Python服务器等。"
+            },
+            {
+                "title": "DBeaver Community | 免费的通用数据库工具",
+                "url": "https://dbeaver.io/",
+                "icon": "https://dbeaver.io/favicon.png",
+                "categories": "编程开发",
+                "tags": "数据库,开源,跨平台,SQL,NoSQL",
+                "description": "DBeaver Community 是一个免费的跨平台数据库工具，适用于开发人员、数据库管理员、分析师和所有与数据打交道的人。它支持所有流行的SQL数据库，如MySQL、MariaDB、PostgreSQL、SQLite、Apache Family等。"
+            },
+            {
+                "title": "Apifox - API 文档、调试、Mock、测试一体化协作平台",
+                "url": "https://apifox.com/",
+                "icon": "https://www.apifox.cn/favicon.ico",
+                "categories": "编程开发",
+                "tags": "API文档,接口调试,Mock,自动化测试,协作平台",
+                "description": "Apifox 是一个集 API 文档、调试、Mock 和测试于一体的协作平台，旨在提升接口开发、测试和联调效率。它支持可视化 API 设计、自动化测试、Mock 数据生成等功能，适用于开发人员和测试人员。"
+            },
+            {
+                "title": "Notepad++",
+                "url": "https://notepad-plus-plus.org/",
+                "icon": "https://notepad-plus-plus.org/favicon.ico",
+                "categories": "编程开发",
+                "tags": "文本编辑器,代码编辑器,开源软件",
+                "description": "Notepad++ 是一个免费的源代码编辑器和 Notepad 替代品，支持多种语言。它基于强大的 Scintilla 编辑组件，使用 C++ 编写，采用纯 Win32 API 和 STL，确保更高的执行速度和更小的程序体积。通过优化尽可能多的例程而不失用户友好性，Notepad++ 努力减少世界二氧化碳排放。"
+            },
+            {
+                "title": "muety/wakapi: A minimalist, self-hosted WakaTime-compatible backend for coding statistics",
+                "url": "https://github.com/muety/wakapi",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "自托管, 编码统计, WakaTime兼容, 开源, 开发者工具",
+                "description": "Wakapi 是一个极简的、自托管的、兼容 WakaTime 的编码统计后端。它为项目、语言、编辑器、主机和操作系统提供统计数据，并支持 Prometheus 导出和 REST API。"
+            },
+            {
+                "title": "GrapesJS - Free and Open source Web Builder Framework",
+                "url": "https://github.com/GrapesJS/grapesjs",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "Web Builder, HTML模板, 开源, 无代码, 拖放",
+                "description": "GrapesJS 是一个免费且开源的网页构建框架，帮助用户快速轻松地构建HTML模板，适用于网站、新闻通讯或移动应用。主要设计用于CMS中，以加速动态模板的创建。"
+            },
+            {
+                "title": "StackTrends 概览",
+                "url": "https://stacktrends.dev/overview/",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "技术趋势,编程语言,前端框架,后端框架,数据库管理系统",
+                "description": "StackTrends 提供了关于技术趋势的详细数据，包括编程语言、前端框架、后端框架、数据库管理系统等的使用情况和变化趋势。"
+            },
+            {
+                "title": "OI Wiki",
+                "url": "https://oi-wiki.org/",
+                "icon": "https://oi-wiki.org/favicon.ico",
+                "categories": "编程开发",
+                "tags": "编程竞赛,信息学奥林匹克,ICPC,ACM竞赛,编程知识",
+                "description": "OI Wiki 是一个致力于编程竞赛知识整合的免费开放站点，提供竞赛基础知识、常见题型、解题思路及常用工具，帮助学习编程竞赛相关知识。"
+            },
+            {
+                "title": "代码随想录",
+                "url": "https://www.programmercarl.com/",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "刷题,算法,编程,LeetCode,编程竞赛",
+                "description": "代码随想录是一个致力于帮助编程爱好者高效刷题和学习算法的站点，提供详细的题解和刷题顺序，帮助用户循序渐进地掌握编程知识。"
+            },
+            {
+                "title": "Hello 算法",
+                "url": "https://www.hello-algo.com/",
+                "icon": "https://www.hello-algo.com/assets/images/favicon.png",
+                "categories": "编程开发",
+                "tags": "数据结构,算法,编程,动画图解,编程语言",
+                "description": "Hello 算法是一本通俗易懂的数据结构与算法入门书，提供动画图解和一键运行的代码，帮助读者快速入门数据结构与算法。"
+            },
+            {
+                "title": "免费在线学习代码重构和设计模式",
+                "url": "https://refactoringguru.cn/",
+                "icon": "https://refactoringguru.cn/favicon.ico",
+                "categories": "编程开发",
+                "tags": "代码重构,设计模式,SOLID原则,编程,软件开发",
+                "description": "Refactoring.Guru 是一个致力于免费在线学习代码重构、设计模式和SOLID原则的站点，提供详细的教程和示例，帮助开发者优化代码和设计。"
+            },
+            {
+                "title": "Java 面试指南",
+                "url": "https://javaguide.cn/",
+                "icon": "https://javaguide.cn/favicon.ico",
+                "categories": "编程开发",
+                "tags": "Java,面试指南,编程,技术博客,开源项目",
+                "description": "Java 面试指南是一个涵盖 Java 程序员需要掌握的核心知识的站点，提供面试指南、开源项目、技术书籍等资源，帮助编程爱好者提升技能。"
+            },
+            {
+                "title": "凤凰架构：构建可靠的大型分布式系统",
+                "url": "http://icyfenix.cn/",
+                "icon": "http://icyfenix.cn/favicon.ico",
+                "categories": "编程开发",
+                "tags": "分布式系统,架构设计,微服务,云原生,软件开发",
+                "description": "凤凰架构是一个致力于构建可靠的大型分布式系统的开源文档，提供从单体架构到微服务、服务网格、无服务架构的全面知识，帮助开发人员系统性地整理现代软件架构的各条分支知识点。"
+            },
+            {
+                "title": "Rust/Go/C/NASM 学习笔记",
+                "url": "https://github.com/qyuhen/book",
+                "icon": "https://github.com/favicon.ico",
+                "categories": "编程开发",
+                "tags": "学习笔记,编程,技术博客,开源项目",
+                "description": "qyuhen/book 是一个涵盖多种编程语言和技术的学习笔记站点，提供详细的学习资源和教程，帮助编程爱好者提升技能。"
+            },
+            {
+                "title": "Auth Wiki",
+                "url": "https://auth.wiki/zh",
+                "icon": "https://auth.wiki/_astro/cover.BnyXQmpl.png",
+                "categories": "编程开发",
+                "tags": "认证,授权,身份管理,访问控制,安全",
+                "description": "Auth Wiki 是一个致力于认证、授权、身份和访问管理（IAM）相关知识的站点，提供关于 OpenID Connect、OAuth 2.0 和 SAML 等开放标准的详细定义和解释，帮助用户理解和应用这些技术。"
+            },
+            {
+                "title": "Learn Git Branching",
+                "url": "https://learngitbranching.js.org/?locale=zh_CN",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "Git,版本控制,编程教程",
+                "description": "本站提供了一个互动式的Git教程，通过沙盒环境和一系列关卡挑战，帮助用户深入学习Git的强大功能。"
+            },
+            {
+                "title": "深入架构原理与实践",
+                "url": "https://www.thebyte.com.cn/",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "架构设计,云原生,高可用系统,分布式系统,容器技术",
+                "description": "《深入架构原理与实践》是一本关于架构设计的开源书籍，内容涵盖云原生技术、网络服务优化、Linux内核网络技术、负载均衡与代理技术、数据一致性与分布式事务、分布式共识与算法、容器编排技术、服务网格技术、系统可观测性以及应用的封装与交付等多个方面。"
+            },
+            {
+                "title": "系统设计入门：学习如何设计大规模系统，准备系统设计面试",
+                "url": "https://github.com/donnemartin/system-design-primer",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "系统设计,面试准备,开源项目,Anki闪卡",
+                "description": "系统设计入门项目旨在帮助学习者掌握大规模系统设计的知识，并为系统设计面试做好准备。项目包含丰富的资源、示例问题及解决方案，以及Anki闪卡，适合希望提升系统设计能力的工程师。"
+            },
+            {
+                "title": "在线JSON工具 - 轻松格式化、编辑、验证和查看JSON",
+                "url": "https://www.online-json.com/",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "JSON,格式化,编辑,验证,查看",
+                "description": "在线JSON工具提供强大的功能，帮助用户轻松格式化、验证、编辑和可视化JSON数据。该工具旨在提高生产力，确保数据完整性，并简化工作流程。用户可以在浏览器中快速、安全地管理JSON数据，享受便捷的操作体验。"
+            },
+            {
+                "title": "FreeFrontend",
+                "url": "https://freefrontend.com/",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "前端开发, HTML, CSS, JavaScript, 编程资源",
+                "description": "FreeFrontend是一个为前端开发者提供丰富资源的综合平台，包含HTML、CSS、JavaScript等技术的免费代码片段，助力开发者构建更优秀的网站项目。"
+            },
+            {
+                "title": "JETBRA.IN CHECKER | IPFS",
+                "url": "https://3.jetbra.in/",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "IPFS,节点检查,Jetbran,分布式存储",
+                "description": "JETBRA.IN CHECKER 是一个用于科学使用 JetBrains 产品的工具"
+            },
+            {
+                "title": "正则表达式可视化-Visual Regexp：在线测试、学习、构建正则表达式",
+                "url": "https://wangwl.net/static/projects/visualRegex#",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "正则表达式,工具,在线测试,正则语法,编程辅助",
+                "description": "Visual Regexp 是一个用于正则表达式的可视化工具，提供在线测试、语法学习和正则表达式构建功能，为开发者提供便捷的编程辅助。"
+            },
+            {
+                "title": "Smithery - Model Context Protocol Registry",
+                "url": "https://smithery.ai/",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "MCP服务器,工具集成,动态路由,模型扩展,注册表",
+                "description": "Smithery 提供基于模型上下文协议的服务器集成服务，让代理具备更多能力。用户可动态路由至注册表中的所有MCP，支持配置工具回调，涵盖编程开发和任务自动化等功能，提升效率与扩展性。"
+            },
+            {
+                "title": "DeepWiki",
+                "url": "https://deepwiki.com/",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "开源,代码库,知识共享",
+                "description": "DeepWiki是一个帮助用户了解代码仓库的工具，分析仓库架构、生成架构文档，如Visual Studio Code、LangChain等热门开源项目。这是一个以知识共享为核心的开放平台。"
+            }
+        ]
+    },
+    {
+        "title": "系统优化",
+        "type": "folder",
+        "children": [
+            {
+                "title": "Kopia: 跨平台备份工具，支持快速增量备份、客户端端到端加密、压缩和数据去重",
+                "url": "https://github.com/kopia/kopia",
+                "icon": "",
+                "categories": "系统优化",
+                "tags": "备份,加密,数据去重,跨平台,开源",
+                "description": "Kopia 是一个快速、安全的开源备份/恢复工具，支持创建数据的加密快照，并将快照保存到远程或云存储、网络附加存储或本地机器。Kopia 提供 CLI 和 GUI 版本，适合高级用户和普通用户。"
+            },
+            {
+                "title": "WizTree - The Fastest Disk Space Analyzer",
+                "url": "https://www.diskanalyzer.com/",
+                "icon": "https://www.diskanalyzer.com/favicon.ico",
+                "categories": "系统优化",
+                "tags": "磁盘空间,文件管理,快速扫描",
+                "description": "WizTree是一款极快的磁盘空间分析工具，能够帮助用户快速找到占用硬盘空间最多的文件和文件夹。它免费供个人使用，并且被许多大型组织所信赖。"
+            },
+            {
+                "title": "Rapid Environment Editor",
+                "url": "https://www.rapidee.com/en/about",
+                "icon": "",
+                "categories": "系统优化",
+                "tags": "环境变量,编辑器,Windows",
+                "description": "Rapid Environment Editor 是一个环境变量编辑器。它包括一个易于使用的图形用户界面，取代了Windows的小而不便的编辑框。支持多种Windows版本，包括XP、Vista、7、8和10。"
+            },
+            {
+                "title": "Ventoy: 一个新的可启动USB解决方案",
+                "url": "https://github.com/ventoy/Ventoy",
+                "icon": "",
+                "categories": "系统优化",
+                "tags": "USB启动, 多系统启动, 开源工具, ISO文件, UEFI支持",
+                "description": "Ventoy是一个开源工具，用于创建可启动的USB驱动器，支持ISO/WIM/IMG/VHD(x)/EFI文件。无需反复格式化磁盘，只需将镜像文件复制到USB驱动器并启动。支持多种操作系统，包括Windows、Linux、Unix等。"
+            },
+            {
+                "title": "PC Builds 门户网站",
+                "url": "https://pc-builds.com/zh/",
+                "icon": "",
+                "categories": "系统优化",
+                "tags": "PC构建, 瓶颈计算器, 显卡比较",
+                "description": "PC Builds 门户网站提供多种计算器，帮助用户构建完美的PC，减少计算机瓶颈，并查看可以运行的游戏。"
+            }
+        ]
+    },
+    {
+        "title": "网络安全",
+        "type": "folder",
+        "children": [
+            {
+                "title": "BUGBANK 官方网站 | 领先的网络安全漏洞发现品牌",
+                "url": "https://skills.bugbank.cn/",
+                "icon": "",
+                "categories": "网络安全",
+                "tags": "漏洞发现,网络安全,渗透测试",
+                "description": "BUGBANK 是一个领先的网络安全漏洞发现平台，致力于开放安全的提出与倡导。该平台提供了丰富的技能树和教程，涵盖基础知识、进阶技术、代码审计、漏洞分析等多个方面，适用于网络安全研究和渗透测试。"
+            },
+            {
+                "title": "第1章 Linux安全渗透简介 | 大学霸 Kali Linux 安全渗透教程",
+                "url": "https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/content/0.html",
+                "icon": "",
+                "categories": "网络安全",
+                "tags": "安全渗透, Kali Linux, 渗透测试",
+                "description": "本教程介绍了Linux安全渗透的基础知识和工具，包括Kali Linux的安装、更新与升级、基本设置等内容，适用于网络安全研究和渗透测试。"
+            },
+            {
+                "title": "VirusTotal - Home",
+                "url": "https://www.virustotal.com/gui/home/upload",
+                "icon": "https://www.virustotal.com/favicon.ico",
+                "categories": "网络安全",
+                "tags": "病毒检测,恶意软件分析,安全社区",
+                "description": "VirusTotal 是一个在线服务，用于分析可疑文件、域名、IP地址和URL，以检测恶意软件和其他安全漏洞，并自动与安全社区共享分析结果。"
+            },
+            {
+                "title": "RainbowCrack - List of Rainbow Tables",
+                "url": "http://project-rainbowcrack.com/table.htm",
+                "icon": "",
+                "categories": "网络安全",
+                "tags": "彩虹表,哈希破解,密码安全",
+                "description": "RainbowCrack 是一个用于生成和使用彩虹表进行哈希破解的工具。该页面列出了各种算法的彩虹表，包括NTLM、MD5和SHA1等，提供了详细的表格规格和性能数据。"
+            },
+            {
+                "title": "CTF Wiki - 简介",
+                "url": "https://ctf-wiki.org/",
+                "icon": "",
+                "categories": "网络安全",
+                "tags": "CTF,网络安全,学习资源",
+                "description": "CTF Wiki 是一个专注于CTF（夺旗赛）相关知识和技术的在线资源库，旨在帮助初学者系统性地学习CTF相关领域的知识。"
+            },
+            {
+                "title": "T00ls | 低调求发展 - 潜心习安全 - T00ls.Com",
+                "url": "https://www.t00ls.com/",
+                "icon": "https://www.t00ls.cc/favicon.ico",
+                "categories": "网络安全",
+                "tags": "网络安全,漏洞检测,渗透测试",
+                "description": "T00ls 是一个专注于网络安全的社区，提供安全资讯、漏洞监测、技术文章和安全工具等资源，旨在帮助用户提升网络安全技能。"
+            },
+            {
+                "title": "Attack Surface Management and Threat Hunting Solutions | Censys",
+                "url": "https://censys.com/",
+                "icon": "https://censys.io/favicon.ico",
+                "categories": "网络安全",
+                "tags": "攻击面管理,威胁狩猎,互联网情报",
+                "description": "Censys 是一个领先的互联网情报平台，专注于威胁狩猎和攻击面管理。它为安全团队提供最全面、准确和最新的互联网地图，以防御攻击面和寻找威胁。"
+            },
+            {
+                "title": "网络空间测绘，网络空间安全搜索引擎，网络空间搜索引擎，安全态势感知 - FOFA网络空间测绘系统",
+                "url": "https://fofa.info/",
+                "icon": "",
+                "categories": "网络安全",
+                "tags": "网络空间测绘,安全搜索引擎,态势感知",
+                "description": "FOFA网络空间测绘系统是一个网络空间安全搜索引擎，提供网络空间测绘和安全态势感知服务，帮助用户了解和监控网络空间的安全状况。"
+            },
+            {
+                "title": "Shodan 搜索引擎",
+                "url": "https://www.shodan.io/",
+                "icon": "",
+                "categories": "网络安全",
+                "tags": "互联网,设备搜索,网络安全,监控",
+                "description": "Shodan 是世界上第一个用于互联网连接设备的搜索引擎。它可以帮助用户发现从电厂、手机、冰箱到 Minecraft 服务器等各种设备，并提供全面的网络暴露监控和互联网情报。"
+            },
+            {
+                "title": "Aegis：一个免费的、安全的开源安卓应用，用于管理你的两步验证令牌",
+                "url": "https://github.com/beemdevelopment/Aegis",
+                "icon": "https://getaegis.app/images/icon.png",
+                "categories": "网络安全",
+                "tags": "安卓,开源,2FA,安全,加密",
+                "description": "Aegis Authenticator 是一个免费的、安全的开源安卓应用，用于管理你的两步验证令牌。它旨在为你的在线服务提供一个安全的身份验证器，同时还包括一些现有身份验证器应用中缺失的功能，如适当的加密和备份。Aegis 支持 HOTP 和 TOTP，使其兼容数千种服务。"
+            },
+            {
+                "title": "ZeroTier | 全球联网解决方案",
+                "url": "https://www.zerotier.com/",
+                "icon": "https://www.zerotier.com/favicon.ico",
+                "categories": "网络安全",
+                "tags": "全球联网, IoT, SD-WAN, VPN, 安全网络, 设备连接",
+                "description": "ZeroTier 提供简单的全球联网解决方案，适用于 IoT 设备、SD-WAN 和 VPN。通过轻量级代理和独特的网络结构，用户可以轻松连接和管理设备，确保数据的端到端加密和设备的可信连接。"
+            },
+            {
+                "title": "VeraCrypt - 免费开源磁盘加密软件，提供强大安全性",
+                "url": "https://veracrypt.fr/en/Home.html",
+                "icon": "https://veracrypt.fr/favicon.ico",
+                "categories": "网络安全",
+                "tags": "磁盘加密,开源软件,数据安全",
+                "description": "VeraCrypt 是一款免费开源的磁盘加密软件，适用于 Windows、Mac OSX 和 Linux 系统。它可以创建虚拟加密磁盘、加密整个分区或存储设备，并提供预启动身份验证。VeraCrypt 增强了加密算法的安全性，解决了 TrueCrypt 的许多漏洞和安全问题。"
+            },
+            {
+                "title": "Cheat Engine",
+                "url": "https://www.cheatengine.org/",
+                "icon": "",
+                "categories": "网络安全",
+                "tags": "Cheat Engine,游戏修改,内存编辑",
+                "description": "Cheat Engine 是一个开源的内存编辑工具，主要用于修改单机游戏的内存数据，从而实现游戏作弊。它提供了多种功能，包括内存扫描、调试、反汇编等，适合编程开发和游戏爱好者使用。"
+            }
+        ]
+    },
+    {
+        "title": "人工智障",
+        "type": "folder",
+        "children": [
+            {
+                "title": "AI Model & API Providers Analysis",
+                "url": "https://artificialanalysis.ai/",
+                "icon": "",
+                "categories": "人工智障",
+                "tags": "AI模型,API提供商,独立分析",
+                "description": "本站提供对AI模型和API提供商的独立分析，帮助用户了解AI领域的最新动态，选择最适合其使用场景的模型和提供商。"
+            },
+            {
+                "title": "Chatbot Arena: Free AI Chat to Compare & Test Best AI Chatbots",
+                "url": "https://lmarena.ai/",
+                "icon": "",
+                "categories": "人工智障",
+                "tags": "AI,聊天机器人,比较,测试,排行榜",
+                "description": "Chatbot Arena是一个由UC Berkeley SkyLab和LMArena研究人员开发的开放平台，用于众包AI基准测试。该平台通过Bradley-Terry模型生成实时排行榜，评估最佳LLM和AI聊天机器人。"
+            },
+            {
+                "title": "LiblibAI-哩布哩布AI - 中国领先的AI创作平台",
+                "url": "https://www.liblib.art/",
+                "icon": "",
+                "categories": "人工智障",
+                "tags": "AI,创作平台,生成式人工智能,模型训练,灵感",
+                "description": "LiblibAI是中国领先的AI创作平台，提供多种生成式人工智能服务，包括模型训练、在线生图、工作流等，帮助用户实现创作灵感。"
+            },
+            {
+                "title": "AI图像高档 - 免费放大和增强您的照片",
+                "url": "https://www.upscale.media/zh",
+                "icon": "",
+                "categories": "人工智障",
+                "tags": "AI,图像增强,图像放大,照片修复,图像处理",
+                "description": "AI图像高档是一个利用人工智能技术免费放大和增强图像的平台，支持多种图像格式，提供批量转换和API集成等功能，帮助用户提升图像质量。"
+            },
+            {
+                "title": "Fix Noisy and Degraded Images - Pix Fix",
+                "url": "https://pixfix.com/",
+                "icon": "",
+                "categories": "人工智障",
+                "tags": "图像修复,降噪,图像增强,照片处理,在线工具",
+                "description": "Pix Fix是一个免费在线工具，使用专有算法修复受噪声和过度JPEG压缩损坏的图像，支持批量处理，确保图像安全。"
+            },
+            {
+                "title": "SiliconFlow, Accelerate AGI to Benefit Humanity",
+                "url": "https://siliconflow.cn/zh-cn/",
+                "icon": "https://framerusercontent.com/images/4li2PjWxZJmoGkzXRMJWU1rJmI.svg",
+                "categories": "人工智障",
+                "tags": "AGI,生成式人工智能,高效推理",
+                "description": "SiliconFlow 提供快速高效的生成式人工智能推理软件栈，旨在提高开发效率并降低使用成本。其技术栈包括快速图像生成能力和低时延高吞吐的LLM推理能力。"
+            },
+            {
+                "title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?",
+                "url": "https://www.swebench.com/",
+                "icon": "",
+                "categories": "人工智障",
+                "tags": "GitHub,自动化,编程,AI,机器学习",
+                "description": "SWE-bench 是一个测试系统自动解决 GitHub 问题的数据集。该数据集收集了 12 个流行 Python 仓库中的 2294 个 Issue-Pull Request 对。评估通过单元测试验证，使用 PR 后的行为作为参考解决方案。"
+            },
+            {
+                "title": "LiveBench: A Challenging, Contamination-Free LLM Benchmark",
+                "url": "https://livebench.ai/#/",
+                "icon": "",
+                "categories": "人工智障",
+                "tags": "LLM,排行榜,基准测试,人工智能",
+                "description": "LiveBench 是一个为大语言模型（LLM）设计的基准测试平台，旨在通过每月发布新问题和基于最新数据集、论文、新闻文章和电影简介的问题来限制潜在的污染。每个问题都有可验证的客观答案，允许准确和自动评分。"
+            },
+            {
+                "title": "Open LLM Leaderboard",
+                "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/",
+                "icon": "",
+                "categories": "人工智障",
+                "tags": "LLM,排行榜,机器学习,人工智能",
+                "description": "Open LLM Leaderboard 是一个展示和比较不同大语言模型（LLM）性能的排行榜。"
+            },
+            {
+                "title": "Bylo.ai：最佳免费AI图像生成器",
+                "url": "https://bylo.ai/zh-CN",
+                "icon": "",
+                "categories": "人工智障",
+                "tags": "AI图像生成,文本生成图像,自定义图像,Flux AI",
+                "description": "Bylo.ai 是一个高级AI图像生成器，用户可以免费、快速且可定制地将文本描述转换为高质量图像。支持负面提示和多种模型（包括流行的Flux AI图像生成器），适用于需要精确控制视觉输出的用户。"
+            },
+            {
+                "title": "edge-tts: 使用微软Edge的在线文本转语音服务 - Python",
+                "url": "https://github.com/rany2/edge-tts",
+                "icon": "",
+                "categories": "人工智障",
+                "tags": "文本转语音,Python模块,微软Edge,tts,编程工具",
+                "description": "edge-tts 是一个Python模块，可使用微软Edge的在线文本转语音服务，无需微软Edge浏览器或Windows系统。"
+            },
+            {
+                "title": "OpenMMLab",
+                "url": "https://openmmlab.com/",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "计算机视觉,开源项目,学术研究,工业应用",
+                "description": "OpenMMLab 是一个开源项目平台，涵盖了计算机视觉的广泛研究主题，如分类、检测、分割和超分辨率。"
+            },
+            {
+                "title": "【布客】PyTorch 中文翻译",
+                "url": "https://pytorch.apachecn.org/",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "PyTorch,深度学习,中文文档,教程",
+                "description": "【布客】PyTorch 中文翻译提供了 PyTorch 的中文文档和教程，涵盖了多个版本的 PyTorch，旨在帮助中文用户更好地理解和使用 PyTorch 进行深度学习研究和开发。"
+            },
+            {
+                "title": "蘑菇书EasyRL",
+                "url": "https://datawhalechina.github.io/easy-rl/#/",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "强化学习,深度学习,教程,开源项目",
+                "description": "蘑菇书EasyRL 是一本关于强化学习的中文教程，涵盖了从基础到高级的强化学习理论和实践，适合想要入门和深入学习强化学习的读者。"
+            },
+            {
+                "title": "Datawhale-学用AI，从此开始",
+                "url": "https://www.datawhale.cn/home",
+                "icon": "https://oss.linklearner.com/SEO/logo.png",
+                "categories": "科研教育",
+                "tags": "AI学习,开源项目,数据分析,计算机视觉,自然语言处理,推荐系统",
+                "description": "Datawhale 是一个致力于通过开源学习模式，推动AI人才培养的平台。它提供了丰富的AI学习资源，包括数据分析、计算机视觉、自然语言处理和推荐系统等学习路径，适合初学者和开发者。"
+            }
+        ]
+    },
+    {
+        "title": "影音娱乐",
+        "type": "folder",
+        "children": [
+            {
+                "title": "小鱼.🐟 | TV-LIVE",
+                "url": "https://xuanzi.ggff.net/",
+                "icon": "",
+                "categories": "影音娱乐",
+                "tags": "在线影视, 直播, 视频资源",
+                "description": "该网站提供多种在线影视和直播资源，包括流媒体观看地址及相关资源的接口链接，为用户带来丰富的视频娱乐内容。"
+            },
+            {
+                "title": "Movie metadata scraper",
+                "url": "https://github.com/sqzw-x/mdcx",
+                "icon": "https://github.com/favicon.ico",
+                "categories": "影音娱乐",
+                "tags": "Python,元数据,爬虫,电影,Emby,Jellyfin",
+                "description": "MDCx 是一个基于 Python 的电影元数据抓取工具，支持 Emby 和 Jellyfin 等媒体服务器。"
+            },
+            {
+                "title": "Open Broadcaster Software | OBS",
+                "url": "https://obsproject.com/",
+                "icon": "https://obsproject.com/favicon.ico",
+                "categories": "影音娱乐",
+                "tags": "视频录制,直播,开源软件",
+                "description": "OBS Studio 是一款免费且开源的视频录制和直播软件，支持 Windows、Mac 和 Linux 平台。它提供高性能的实时视频/音频捕捉和混合功能，支持多种来源的场景创建和切换，具有直观的音频混音器和强大的配置选项。"
+            },
+            {
+                "title": "Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0",
+                "url": "https://github.com/gedoor/legado",
+                "icon": "https://github.com/favicon.ico",
+                "categories": "影音娱乐",
+                "tags": "阅读,小说,开源,安卓",
+                "description": "Legado 3.0 是一款功能强大的开源小说阅读器，适用于安卓系统。用户可以自定义来源阅读网络内容，为网络文学爱好者提供方便、快捷、舒适的阅读体验。"
+            },
+            {
+                "title": "阅读3服务器版，桌面端，iOS可用",
+                "url": "https://github.com/hectorqin/reader",
+                "icon": "",
+                "categories": "影音娱乐",
+                "tags": "阅读,服务器,桌面端,iOS,Spring Boot,Vue.js",
+                "description": "阅读3服务器版是一款不需要手机的阅读软件，支持桌面端和iOS。后端使用Kotlin、Spring Boot、Vert.x和Coroutine，前端使用Vue.js和Element。"
+            },
+            {
+                "title": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕",
+                "url": "https://github.com/Predidit/Kazumi",
+                "icon": "",
+                "categories": "影音娱乐",
+                "tags": "番剧,流媒体,弹幕,自定义规则,跨平台",
+                "description": "Kazumi 是一个使用 flutter 开发的基于自定义规则的番剧采集与在线观看程序。支持规则导入与分享，支持多平台，包括 Android、Windows、MacOS、Linux、iOS 和 HarmonyOS。"
+            },
+            {
+                "title": "M3U8 Downloader - 在线下载M3U8视频",
+                "url": "https://m3u8.dev/",
+                "icon": "",
+                "categories": "影音娱乐",
+                "tags": "M3U8,视频下载,在线视频,Chrome扩展",
+                "description": "M3U8 Downloader 是一款在线工具，支持从YouTube、Twitter/X、Tiktok、Instagram、Loom、Reddit、Twitch等平台下载视频和音频。用户可以使用M3U8 Downloader Pro或免费在线屏幕录制工具下载视频。"
+            },
+            {
+                "title": "Updated list of public BitTorrent trackers",
+                "url": "https://github.com/ngosang/trackerslist",
+                "icon": "",
+                "categories": "影音娱乐",
+                "tags": "BitTorrent,trackers,公共追踪器,网络安全",
+                "description": "该项目提供了一个每日更新的公共BitTorrent追踪器列表，帮助用户提高下载速度和连接稳定性。"
+            },
+            {
+                "title": "Alpha Coders - Your Source For Desktop Wallpapers, Phone Wallpapers, Gifs, PFP, and More!",
+                "url": "https://alphacoders.com/",
+                "icon": "",
+                "categories": "影音娱乐",
+                "tags": "壁纸, 动态图片, 头像, 设计, 创作",
+                "description": "Alpha Coders 是一个提供桌面壁纸、手机壁纸、动态图片、头像等资源的网站。用户可以在这里找到各种高清壁纸、个性化头像和有趣的动态图片，并参与社区活动。"
+            },
+            {
+                "title": "[FILMGRAB]",
+                "url": "https://film-grab.com/",
+                "icon": "https://film-grab.com/favicon.ico",
+                "categories": "影音娱乐",
+                "tags": "电影,艺术,视觉",
+                "description": "FILMGRAB 是一个专注于电影艺术和视觉效果的网站，提供各种电影的截图和视觉分析，适合电影爱好者和研究者。"
+            },
+            {
+                "title": "Free high resolution photography",
+                "url": "https://www.lifeofpix.com/",
+                "icon": "",
+                "categories": "影音娱乐",
+                "tags": "高分辨率,摄影,无版权限制,商业用途",
+                "description": "Life of Pix 提供高分辨率摄影作品，且无版权限制，可用于商业用途。"
+            },
+            {
+                "title": "免费素材图片",
+                "url": "https://www.pexels.com/zh-cn/",
+                "icon": "https://www.pexels.com/favicon.ico",
+                "categories": "影音娱乐",
+                "tags": "免费图片,素材,摄影,视频",
+                "description": "Pexels 是一个提供免费素材图片和视频的平台，摄影作者在这里免费分享最精彩的素材。"
+            },
+            {
+                "title": "Beautiful Free Images & Pictures",
+                "url": "https://unsplash.com/",
+                "icon": "",
+                "categories": "影音娱乐",
+                "tags": "免费图片,高质量图片,摄影,设计资源",
+                "description": "Unsplash 是一个提供高质量免费图片和照片的网站，适用于设计师、摄影师和创意工作者。"
+            },
+            {
+                "title": "Gratisography - 免费高分辨率图库",
+                "url": "https://gratisography.com/",
+                "icon": "",
+                "categories": "影音娱乐",
+                "tags": "免费图片,高分辨率,图库,无版权限制",
+                "description": "Gratisography 提供免费高分辨率的图库，所有图片均无版权限制，适用于各种创意设计项目。"
+            },
+            {
+                "title": "5.2 million+ Stunning Free Images to Use Anywhere - Pixabay",
+                "url": "https://pixabay.com/",
+                "icon": "https://pixabay.com/favicon.ico",
+                "categories": "影音娱乐",
+                "tags": "免费图片, 免版税, 图片分享, 视频, 音乐",
+                "description": "Pixabay是一个充满活力的创意社区，分享免版税的图片、视频、音频和其他媒体。所有内容均由Pixabay根据内容许可发布，可以安全使用，无需获得许可或给予艺术家信用，即使是某些商业用途。"
+            },
+            {
+                "title": "Awesome Wallpapers - wallhaven.cc",
+                "url": "https://wallhaven.cc/",
+                "icon": "https://wallhaven.cc/favicon.ico",
+                "categories": "影音娱乐",
+                "tags": "壁纸,高清,艺术,动漫,游戏",
+                "description": "wallhaven.cc 提供了大量高质量的壁纸，用户可以浏览、搜索和下载各种主题的壁纸，包括艺术、动漫、游戏等。"
+            },
+            {
+                "title": "电影推荐 · MVCAT",
+                "url": "https://www.mvcat.com/",
+                "icon": "https://www.mvcat.com/favicon.ico",
+                "categories": "影音娱乐",
+                "tags": "电影推荐,影评,电影分类,电影榜单",
+                "description": "MVCAT 是一个电影推荐网站，提供各种类型的电影推荐、影评、电影分类和电影榜单。用户可以根据自己的兴趣找到适合观看的电影。"
+            },
+            {
+                "title": "聚焦中文字幕下载分享-奇下载字幕",
+                "url": "https://www.qixiazai.com/",
+                "icon": "http://www.qixiazai.com/favicon.ico",
+                "categories": "影音娱乐",
+                "tags": "中文字幕,字幕下载,电影字幕,美剧字幕,韩剧字幕",
+                "description": "奇下载字幕网站专注于提供各类影视剧的中文字幕下载，包括电影、美剧、韩剧、纪录片等。用户可以通过关键词搜索找到所需的字幕资源。"
+            },
+            {
+                "title": "音范丝 | 首页——精选4K蓝光原盘下载,顶级收藏",
+                "url": "https://www.yinfans.net/",
+                "icon": "https://www.yinfans.me/wp-content/themes/Loos2/images/favicon.ico",
+                "categories": "影音娱乐",
+                "tags": "蓝光原盘,4K,电影下载,高清,收藏",
+                "description": "音范丝是一个提供精选4K蓝光原盘下载的网站，专注于顶级影音收藏。用户可以在这里找到最新的蓝光高清电影资源，包括电影、电视剧等。"
+            },
+            {
+                "title": "SeedHub | 影视&动漫分享",
+                "url": "https://www.seedhub.cc/",
+                "icon": "https://ss7.seedhub.info/static/img/favicon.ico",
+                "categories": "影音娱乐",
+                "tags": "电影,动漫,剧集,分享",
+                "description": "SeedHub 是一个分享电影、动漫和剧集的网站，提供各种类型的影视资源，包括剧情、喜剧、惊悚、动作、爱情、犯罪、恐怖、悬疑、冒险、科幻、奇幻、纪录片等。用户可以在这里找到最新更新的影视作品，并根据豆瓣评分选择观看。"
+            },
+            {
+                "title": "IMDb Top 250 Movies",
+                "url": "https://www.imdb.com/chart/top/",
+                "icon": "https://www.imdb.com/favicon.ico",
+                "categories": "影音娱乐",
+                "tags": "电影,排行榜,IMDb",
+                "description": "IMDb Top 250 Movies页面列出了由IMDb用户评分的前250部电影。"
+            },
+            {
+                "title": "flysheep资源避难所-一个免费的二次元风格下载站",
+                "url": "https://www.flysheep6.com/",
+                "icon": "https://www.flysheep6.com/favicon.ico",
+                "categories": "影音娱乐",
+                "tags": "游戏下载,二次元,PC游戏,独立游戏,VR游戏",
+                "description": "flysheep资源避难所是一个提供各种PC单机大作、小游戏、独立游戏和VR游戏下载的免费二次元风格网站。"
+            },
+            {
+                "title": "「喜加一」最新动态",
+                "url": "https://www.ithome.com/zt/xijiayi",
+                "icon": "https://www.ithome.com/favicon.ico",
+                "categories": "影音娱乐",
+                "tags": "Epic,游戏,限免,促销,Steam",
+                "description": "本站提供最新的Epic和Steam平台游戏限时免费领取和促销活动信息，帮助玩家及时获取免费游戏和优惠。"
+            },
+            {
+                "title": "switch520--专业的switch游戏下载网站",
+                "url": "https://www.520switch.com/",
+                "icon": "https://www.520switch.com/favicon.ico",
+                "categories": "影音娱乐",
+                "tags": "Switch游戏,PS4游戏,PC游戏,游戏下载,破解工具",
+                "description": "switch520是一个专业的Switch游戏下载网站，提供Switch、PS4、PC等平台的游戏下载资源，致力于打造国人自己的游戏仓库，全站免费无广告。"
+            },
+            {
+                "title": "Switch520",
+                "url": "https://www.gamer520.com/",
+                "icon": "",
+                "categories": "影音娱乐",
+                "tags": "Switch游戏,PC游戏,PS4游戏,PS5游戏,模拟器",
+                "description": "Switch520是一个提供Switch、PC、PS4、PS5游戏资源下载的网站，包含最新的热门游戏和模拟器资源。"
+            },
+            {
+                "title": "IGGGAMES - 免费下载PC游戏 - 直接链接 - 种子",
+                "url": "https://igg-games.com/",
+                "icon": "https://igg-games.com/favicon.ico",
+                "categories": "影音娱乐",
+                "tags": "PC游戏,免费下载,种子,直接链接",
+                "description": "IGGGAMES 提供各种PC游戏的免费下载，包括动作、冒险、角色扮演、策略等多种类型。用户可以通过直接链接或种子下载游戏。"
+            },
+            {
+                "title": "Poki (宝玩) - 免费在线小游戏",
+                "url": "https://poki.com/zh",
+                "icon": "https://poki.cn/favicon.ico",
+                "categories": "影音娱乐",
+                "tags": "免费游戏,在线游戏,休闲娱乐,多人游戏,单人游戏",
+                "description": "Poki (宝玩) 是一个提供免费在线小游戏的平台，拥有丰富的游戏种类，从单人休闲到多人合作，致力于为用户提供最有趣的游戏体验。无需下载、登录，无弹窗干扰，支持多种设备运行。"
+            },
+            {
+                "title": "Yandex Games",
+                "url": "https://yandex.com/games/",
+                "icon": "https://yandex.com/favicon.ico",
+                "categories": "影音娱乐",
+                "tags": "游戏,休闲,娱乐",
+                "description": "Yandex Games 是一个提供各种在线游戏的平台，涵盖模拟器、休闲、赛车、冒险等多种类型，适合不同年龄段和兴趣的玩家。"
+            },
+            {
+                "title": "Free Online Games on CrazyGames",
+                "url": "https://www.crazygames.com/",
+                "icon": "",
+                "categories": "影音娱乐",
+                "tags": "在线游戏, 免费游戏, 多人游戏, 休闲游戏, 动作游戏",
+                "description": "CrazyGames 提供超过 4000 款免费在线游戏，无需安装，适用于任何设备。用户可以与朋友一起玩各种类型的游戏，包括动作、冒险、益智、体育等。"
+            },
+            {
+                "title": "小霸王，其乐无穷 。红白机，FC在线游戏，街机游戏，街机在线，NES games，NES games online，Super Mario",
+                "url": "https://www.yikm.net/",
+                "icon": "",
+                "categories": "影音娱乐",
+                "tags": "复古游戏,FC游戏,街机游戏,怀旧",
+                "description": "本站提供各种复古游戏的在线体验，包括FC、SFC、街机、GBA、NDS、MD、DOS等经典游戏，让用户重温童年的快乐。"
+            },
+            {
+                "title": "在线 DOS 游戏",
+                "url": "https://dos.zczc.cz/",
+                "icon": "https://dos.zczc.cz/favicon.ico",
+                "categories": "影音娱乐",
+                "tags": "DOS游戏,在线游戏,经典游戏",
+                "description": "本站提供在线DOS游戏，包括金庸群侠传、大富翁3、三国志系列、仙剑奇侠传等经典游戏，用户可以直接在浏览器中畅玩。"
+            },
+            {
+                "title": "天涯神贴播客 - 精选天涯论坛经典帖子音频版",
+                "url": "https://podcast.tianyashentie.org/",
+                "icon": "https://podcast.tianyashentie.org/favicon.svg",
+                "categories": "影音娱乐",
+                "tags": "天涯论坛, 神贴, 播客, 音频, 经典帖子",
+                "description": "天涯神贴播客提供精选的天涯论坛经典帖子音频版，用户可以通过购买网盘版或U盘版获取所有音频内容。"
+            },
+            {
+                "title": "BTDigg DHT Search Engine: Free Search Engine For Free Torrent Content",
+                "url": "https://btdig.com/index.htm",
+                "icon": "https://btdig.com/favicon.ico",
+                "categories": "影音娱乐",
+                "tags": "DHT,搜索引擎,种子,内容搜索",
+                "description": "BTDigg 是一个免费的 DHT 搜索引擎，专注于提供免费的种子内容搜索服务。"
+            },
+            {
+                "title": "Torrent downloads and distributions for IP 139.162.17.136",
+                "url": "https://iknowwhatyoudownload.com/en/peer/",
+                "icon": "",
+                "categories": "影音娱乐",
+                "tags": "IP地址,下载,分发,监控",
+                "description": "该网站提供了IP地址139.162.17.136的Torrent下载和分发信息，用户可以通过该网站监控和查看特定IP地址的下载活动。"
+            },
+            {
+                "title": "Torrent Search Engine | 1337x.to",
+                "url": "https://1337x.to/",
+                "icon": "https://1337x.to/favicon.ico",
+                "categories": "影音娱乐",
+                "tags": "torrent,搜索引擎,下载,种子",
+                "description": "1337x.to 是一个提供种子搜索和下载服务的网站，用户可以在这里找到各种电影、电视节目、游戏、音乐、应用程序等资源。"
+            },
+            {
+                "title": "fogleman/primitive: 用几何图形重现图像",
+                "url": "https://github.com/fogleman/primitive",
+                "icon": "",
+                "categories": "影音娱乐",
+                "tags": "图像处理,几何图形,算法,开源项目",
+                "description": "Primitive 是一个开源项目，通过几何图形来重现图像。用户可以提供目标图像，算法会逐步添加最优形状来最小化目标图像与绘制图像之间的误差。支持多种输出格式，包括 PNG、JPG、SVG 和 GIF。"
+            },
+            {
+                "title": "New Generation Torrent Search Engine | Bitsearch",
+                "url": "https://bitsearch.to/",
+                "icon": "",
+                "categories": "影音娱乐",
+                "tags": "torrent,搜索引擎,下载,电影,音乐",
+                "description": "Bitsearch 是一个新一代的种子搜索引擎，提供电影、电视剧、动漫、音乐等多种资源的搜索和下载服务。"
+            }
+        ]
+    },
+    {
+        "title": "科研教育",
+        "type": "folder",
+        "children": [
+            {
+                "title": "回头是岸",
+                "type": "folder",
+                "children": [
+                    {
+                        "title": "历年国考省考公务员/事业单位/教师招聘考试/教资笔试/面试试题及答案解析-金标尺题库",
+                        "url": "https://www.gwysydw.com/",
+                        "icon": "",
+                        "categories": "科研教育",
+                        "tags": "公考,省考,事业单位,教师招聘,试题解析",
+                        "description": "金标尺题库为广大用户提供历年公务员、事业单位、教师招聘考试及教资笔试面试试题和答案解析，帮助考生轻松备考，提升考试通过率。"
+                    },
+                    {
+                        "title": "SaDuck - 免费公考知识库",
+                        "url": "https://saduck.top/",
+                        "icon": "",
+                        "categories": "科研教育",
+                        "tags": "公务员考试, 知识库, 学习技巧",
+                        "description": "SaDuck提供全面覆盖的公务员考试全科目基础知识点，并融合高效学习策略，是备考的得力助手，永久免费使用。"
+                    },
+                    {
+                        "title": "公务员从入门到上岸，最佳程序员公考实践教程",
+                        "url": "https://github.com/miss-mumu/developer2gwy",
+                        "icon": "",
+                        "categories": "科研教育",
+                        "tags": "公务员考试,程序员,备考指南,体制内生活",
+                        "description": "本项目由一群从程序员上岸成为公务员的朋友共同参与贡献，分享记录他们的上岸经历、体制内生活以及心路历程。"
+                    },
+                    {
+                        "title": "互联网首份程序员考公指南",
+                        "url": "https://github.com/coder2gwy/coder2gwy",
+                        "icon": "",
+                        "categories": "科研教育",
+                        "tags": "程序员,考公,指南",
+                        "description": "互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。指南内容包括程序员考公务员、事业编制和教师岗位的经验分享、备考最佳实践、常见问题解答等，适合想要进入体制内的程序员。"
+                    }
+                ]
+            },
+            {
+                "title": "dblp: computer science bibliography",
+                "url": "https://dblp.org/",
+                "icon": "https://dblp.org/favicon.ico",
+                "categories": "科研教育",
+                "tags": "计算机科学, 文献数据库, 学术资源, 研究工具, 开放数据",
+                "description": "dblp 是一个计算机科学文献数据库，提供主要计算机科学期刊和会议的开放书目信息。最初由特里尔大学创建，现在由 Schloss Dagstuhl 运营和开发。"
+            },
+            {
+                "title": "中国知网",
+                "url": "https://www.cnki.net/",
+                "icon": "https://chn.oversea.cnki.net/favicon.ico",
+                "categories": "科研教育",
+                "tags": "学术资源, 数据交易, AI增强检索, 出版服务, 学术研究",
+                "description": "中国知网（CNKI）是一个提供学术资源、数据交易和出版服务的平台，支持AI增强检索和学术研究。"
+            },
+            {
+                "title": "SCI-Web of Science",
+                "url": "https://www.webofscience.com/wos/alldb/basic-search",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "学术资源, 数据库, 文献检索, 科研工具, 学术研究",
+                "description": "Web of Science 是一个提供学术资源和文献检索的数据库，旨在为科研人员提供高效的科研工具和学术研究支持。"
+            },
+            {
+                "title": "EI-Engineering Village - Quick Search",
+                "url": "https://www.engineeringvillage.com/search/quick.url",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "工程学, 数据库, 文献检索, 科研工具, 学术资源",
+                "description": "Engineering Village 是一个工程学文献数据库，提供快速搜索功能，帮助科研人员高效检索和访问工程学领域的学术资源。"
+            },
+            {
+                "title": "高级检索-【维普期刊官网】- 中文期刊服务平台",
+                "url": "https://qikan.cqvip.com/Qikan/Search/Advance",
+                "icon": "https://qikan.cqvip.com/favicon.ico",
+                "categories": "科研教育",
+                "tags": "期刊检索, 高级检索, 学术资源, 中文期刊, 数据库",
+                "description": "维普期刊官网提供高级检索功能，支持用户通过题名、关键词、作者等多种方式进行期刊检索，涵盖北大核心期刊、EI来源期刊、SCIE期刊等多种学术资源。"
+            },
+            {
+                "title": "CitationStyles",
+                "url": "https://editor.citationstyles.org/about/",
+                "icon": "https://editor.citationstyles.org/images/favicon-32x32.png",
+                "categories": "科研教育",
+                "tags": "CSL, 引用样式, 编辑工具, 开源项目, 文献管理",
+                "description": "本页面介绍了Citation Style Language (CSL) 编辑器的功能，包括如何搜索、编辑和使用引用样式。用户可以通过名称或示例搜索样式，使用可视化编辑器进行修改，并将其应用于参考文献管理工具。"
+            },
+            {
+                "title": "SCI期刊影响因子查询_2025年(2022年度) 影响因子_Justscience_中外核心期刊系统_友情价英文母语润色",
+                "url": "https://sci.justscience.cn/#0",
+                "icon": "https://sci.justscience.cn/resources/favicon.ico",
+                "categories": "科研教育",
+                "tags": "SCI期刊, 影响因子, 学术资源, 文献检索, 数据库",
+                "description": "SCI期刊影响因子查询平台提供2025年（2022年度）SCI期刊影响因子的查询服务，涵盖中外核心期刊系统，并提供英文母语润色服务。"
+            },
+            {
+                "title": "信息技术最新国际会议和期刊列表 - Conference Partner (会伴)",
+                "url": "https://www.myhuiban.com/",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "国际会议, 期刊, 学术资源, 征稿信息, 科研人员",
+                "description": "Conference Partner (会伴) 是一个提供信息技术领域最新国际会议和期刊列表的平台，涵盖会议征稿信息、期刊排名、科研人员信息等，旨在为科研人员提供全面的学术资源和服务。"
+            },
+            {
+                "title": "浙江图书馆",
+                "url": "https://www.zjlib.cn/",
+                "icon": "https://www.zjlib.cn/favicon.ico",
+                "categories": "科研教育",
+                "tags": "图书馆, 学术资源, 公共服务, 在线阅读, 文化活动",
+                "description": "浙江图书馆提供丰富的学术资源和公共服务，包括在线阅读、文化活动和文献检索等。"
+            },
+            {
+                "title": "The latest in Machine Learning | Papers With Code",
+                "url": "https://paperswithcode.com/",
+                "icon": "https://paperswithcode.com/favicon.ico",
+                "categories": "科研教育",
+                "tags": "机器学习, 研究论文, 开源项目, 数据集, 方法",
+                "description": "Papers With Code 是一个提供最新机器学习研究论文、开源项目、数据集和方法的平台，旨在促进研究人员之间的交流与合作。机器学习经典论文代码实现"
+            },
+            {
+                "title": "Espacenet – patent search",
+                "url": "https://worldwide.espacenet.com/patent/",
+                "icon": "https://worldwide.espacenet.com/favicon.ico",
+                "categories": "科研教育",
+                "tags": "专利搜索, 专利文档, EPO, 检索工具",
+                "description": "Espacenet 是一个提供免费访问超过1.5亿专利文档的平台，由欧洲专利局（EPO）提供支持。用户可以通过简单或高级检索功能查找专利信息，并获取相关的帮助和学习资源。"
+            },
+            {
+                "title": "中国专利下载",
+                "url": "https://www.drugfuture.com/cnpat/cn_patent.asp",
+                "icon": "https://www.drugfuture.com/logo.png",
+                "categories": "科研教育",
+                "tags": "专利下载, 中国专利, PDF下载, TIF下载, 专利检索",
+                "description": "中国专利下载平台提供中国专利全文的打包下载服务，支持PDF和TIF格式，涵盖1985年至今的所有专利说明书。用户可以通过专利申请号或公开(公告)号进行检索，并选择极速版下载以提高下载速度。"
+            },
+            {
+                "title": "整体结构 | Hyperledger 源码分析之 Fabric",
+                "url": "https://yeasy.gitbook.io/hyperledger_code_fabric/overview",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "Hyperledger,Fabric,区块链,分布式系统,开源项目",
+                "description": "《Hyperledger 源码分析之 Fabric》是一个详细分析 Hyperledger Fabric 架构和源码的站点，涵盖核心代码、源码相关工具、安装部署、配置脚本和文档等内容，帮助开发者深入理解和掌握 Hyperledger Fabric。"
+            },
+            {
+                "title": "前言 | 区块链技术指南",
+                "url": "https://yeasy.gitbook.io/blockchain_guide",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "区块链,分布式系统,密码学,金融科技,超级账本",
+                "description": "《区块链技术指南》是一本详细介绍区块链技术的书籍，涵盖区块链的核心技术、典型应用场景以及超级账本的具体应用，帮助读者深入理解和掌握区块链技术。"
+            },
+            {
+                "title": "在线LaTeX公式编辑器",
+                "url": "https://www.latexlive.com/",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "LaTeX,公式编辑器,在线工具,科研,教育",
+                "description": "在线LaTeX公式编辑器是一个方便的工具，允许用户在线编写和编辑LaTeX公式，支持多种符号和模板，适用于科研和教育领域。"
+            },
+            {
+                "title": "FreeMdict - mdx mdd download",
+                "url": "https://freemdict.com/",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "词典,学习资料,多语种",
+                "description": "FreeMdict 提供多种语言学习资料和词典下载，包括英语、汉语、日语、德语、法语、西班牙语等。用户可以在论坛中交流和分享资源。"
+            },
+            {
+                "title": "Kaggle: Your Machine Learning and Data Science Community",
+                "url": "https://www.kaggle.com/",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "机器学习,数据科学,竞赛,数据集,模型",
+                "description": "Kaggle是一个全球领先的机器学习和数据科学社区，提供丰富的数据集、预训练模型和竞赛平台，帮助用户提升技能并解决实际问题。"
+            },
+            {
+                "title": "Dataset Search",
+                "url": "https://datasetsearch.research.google.com/",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "数据集,搜索,数据科学,机器学习,研究",
+                "description": "Dataset Search是一个由Google提供的平台，帮助用户搜索和发现各种数据集，适用于数据科学、机器学习和研究等领域。"
+            },
+            {
+                "title": "解谜英语语法",
+                "url": "https://www.yinwang.org/blog-cn/2018/11/23/grammar",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "英语,语法,学习",
+                "description": "这篇文章旨在帮助那些正在为学习英语语法而痛苦挣扎的人们。作者分享了自己多年的英语学习经验，强调句子是语言的核心，动词是句子的核心，并详细介绍了如何造句和理解句子的方法。"
+            },
+            {
+                "title": "从词性开始 | 英语语法",
+                "url": "https://hzpt-inet-club.github.io/english-note/guide/grammar.html",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "英语,语法,学习",
+                "description": "这篇文章介绍了英语语法的基础知识，从词性开始，详细讲解了十大词性及其在句子中的作用。"
+            },
+            {
+                "title": "句乐部",
+                "url": "https://julebu.co/",
+                "icon": "https://earthworm.cuixueshe.com/favicon.ico",
+                "categories": "科研教育",
+                "tags": "英语学习,游戏化学习,语言学习",
+                "description": "句乐部是一款英语学习工具，通过连词成句、i+1、以终为始等学习理论，结合游戏化的形式，帮助用户习得英语。其功能包括实时反馈和进度跟踪、情境语言学习、提高语言表达能力、增强词汇保留率、掌握常用搭配和惯用表达等。"
+            },
+            {
+                "title": "关于本指南 · A Programmer's Guide to English",
+                "url": "https://a-programmers-guide-to-english.harryyu.me/",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "英语学习,程序员,学习指南",
+                "description": "《A Programmer's Guide to English》是专为程序员编写的英语学习指南，旨在帮助英语基础较差的程序员通过系统的学习方法和训练，提升英语水平，满足留学和技术移民的要求。"
+            },
+            {
+                "title": "简明字帖-练字字帖-汉字笔顺-汉字拼音-描字-描红-字帖生成器",
+                "url": "https://www.babawar.com/",
+                "icon": "https://www.babawar.com/favicon.ico",
+                "categories": "科研教育",
+                "tags": "练字,汉字,拼音,字帖",
+                "description": "本站提供多种字帖生成工具，包括练字字帖、汉字笔顺、汉字拼音、描字、描红等，帮助用户提高汉字书写能力。"
+            },
+            {
+                "title": "MuscleWiki - Simplify your workout",
+                "url": "https://musclewiki.com/",
+                "icon": "https://musclewiki.com/favicon.ico",
+                "categories": "科研教育",
+                "tags": "健身,锻炼,健康",
+                "description": "MuscleWiki 是一个帮助用户简化锻炼过程的工具，提供各种锻炼计划、工具和文章，适合不同的健身需求。"
+            },
+            {
+                "title": "GeoGebra 计算器和应用 - 免费下载",
+                "url": "https://www.geogebra.org/download",
+                "icon": "https://www.geogebra.org/favicon.ico",
+                "categories": "科研教育",
+                "tags": "数学,计算器,几何,代数,微积分",
+                "description": "GeoGebra 提供一系列免费的数学和科学计算器和应用，适用于所有设备和操作系统。用户可以使用这些工具进行函数探索、解方程、几何作图、3D 绘图、科学计算等。"
+            },
+            {
+                "title": "Anki - 强大且智能的记忆卡片",
+                "url": "https://apps.ankiweb.net/",
+                "icon": "https://apps.ankiweb.net/favicon.ico",
+                "categories": "科研教育",
+                "tags": "记忆卡片,学习工具,效率提升",
+                "description": "Anki 是一个使记忆变得更加容易的程序。它比传统的学习方法更高效，可以大大减少学习时间或大大增加学习量。任何需要在日常生活中记住事物的人都可以从 Anki 中受益。它支持图片、音频、视频和科学标记（通过 LaTeX），应用场景包括语言学习、医学和法律考试准备、记忆人名和面孔、地理知识复习、长诗背诵甚至吉他和弦练习。"
+            },
+            {
+                "title": "Zotero | 个人研究助手",
+                "url": "https://www.zotero.org/",
+                "icon": "https://www.zotero.org/favicon.ico",
+                "categories": "科研教育",
+                "tags": "文献管理, 研究工具, 引用管理",
+                "description": "Zotero 是一个免费且易于使用的工具，帮助您收集、组织、注释、引用和分享研究资料。它支持多种操作系统，并提供同步功能，方便您在不同设备上访问和管理研究数据。"
+            },
+            {
+                "title": "ProWritingAid: The Storyteller's Toolkit",
+                "url": "https://prowritingaid.com/",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "写作,编辑,工具,提高效率",
+                "description": "ProWritingAid 是一个帮助作家提升写作质量的工具包，提供深入分析和可操作的反馈和语法检查，支持多种写作应用，确保写作安全。"
+            },
+            {
+                "title": "程序员做饭指南",
+                "url": "https://github.com/Anduin2017/HowToCook",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "菜谱,程序员烹饪,开源项目,食品安全,社区维护",
+                "description": "一个针对程序员的家常菜烹饪指南，通过清晰精准的菜谱描述，让程序员在家做饭更加方便。该项目由社区驱动，提供从基础到高级的烹饪技巧，并支持本地部署及PDF下载，涵盖食品安全等多方面知识。"
+            }
+        ]
+    },
+    {
+        "title": "设计创作",
+        "type": "folder",
+        "children": [
+            {
+                "title": "Tailwind Awesome - 最佳Tailwind模板和UI套件",
+                "url": "https://www.tailwindawesome.com/",
+                "icon": "",
+                "categories": "设计创作",
+                "tags": "Tailwind,模板,UI套件,设计,前端开发",
+                "description": "Tailwind Awesome 是一个精心策划的最佳 Tailwind 模板和 UI 套件列表。我们积极搜索并策划最酷的资源，适用于各种技术和使用场景。"
+            },
+            {
+                "title": "Framer Marketplace — Kickstart your website with Templates & Plugins",
+                "url": "https://www.framer.com/marketplace/",
+                "icon": "",
+                "categories": "设计创作",
+                "tags": "Framer,模板,插件,设计,前端开发",
+                "description": "Framer Marketplace 是一个提供最佳模板和插件的社区平台，帮助用户快速启动和优化他们的网站。"
+            },
+            {
+                "title": "301+ Themes & Templates @ Creative Tim",
+                "url": "https://www.creative-tim.com/templates",
+                "icon": "",
+                "categories": "设计创作",
+                "tags": "Creative Tim,模板,主题,设计,前端开发",
+                "description": "Creative Tim 提供超过301个最佳主题和模板，帮助用户快速启动和优化他们的网站。"
+            },
+            {
+                "title": "Iconify - home of open source icons",
+                "url": "https://icon-sets.iconify.design/",
+                "icon": "",
+                "categories": "设计创作",
+                "tags": "Iconify,开源图标,设计,前端开发",
+                "description": "Iconify 是一个开源图标的家园，提供各种图标集，适用于不同的设计和开发需求。"
+            },
+            {
+                "title": "Favicon Generator for perfect icons on all browsers",
+                "url": "https://realfavicongenerator.net/",
+                "icon": "",
+                "categories": "设计创作",
+                "tags": "favicon,图标生成,设计,创作",
+                "description": "RealFaviconGenerator 是一个在线工具，帮助用户生成完美的 favicon 图标，支持所有浏览器和平台。用户可以上传图标图片，生成多种格式的 favicon，并获得相应的 HTML 标记和设置说明。"
+            },
+            {
+                "title": "Convert PNG, JPG files to SVG vectors online - Vectorizer.AI",
+                "url": "https://vectorizer.ai/",
+                "icon": "",
+                "categories": "设计创作",
+                "tags": "AI,图像转换,矢量化,图像处理,SVG",
+                "description": "Vectorizer.AI是一个在线平台，使用AI技术将PNG和JPG图像快速转换为SVG矢量图，支持多种输出格式，适用于设计和创作。"
+            },
+            {
+                "title": "PhotoFunia: 在线免费图片编辑器，带有图片效果和照片滤镜库",
+                "url": "https://photofunia.com/cn/",
+                "icon": "",
+                "categories": "设计创作",
+                "tags": "照片效果,照片编辑,滤镜,图像处理,在线工具",
+                "description": "PhotoFunia是一个提供免费图片编辑和照片效果的平台，拥有丰富的滤镜和效果库，帮助用户轻松编辑和美化照片。"
+            },
+            {
+                "title": "Google Art & Culture Experiment - Art Palette",
+                "url": "https://artsexperiments.withgoogle.com/artpalette/",
+                "icon": "https://artsexperiments.withgoogle.com/favicon.ico",
+                "categories": "设计创作",
+                "tags": "艺术,颜色,实验,创意",
+                "description": "Google Art & Culture Experiment - Art Palette 是一个艺术实验项目，用户可以通过选择不同的颜色调色板来探索和发现与这些颜色相关的艺术作品。"
+            },
+            {
+                "title": "Color Hunt - 设计师和艺术家的调色板",
+                "url": "https://colorhunt.co/",
+                "icon": "https://colorhunt.co/img/color-hunt-icon-ios.png",
+                "categories": "设计创作",
+                "tags": "调色板,色彩搭配,设计工具",
+                "description": "Color Hunt 是一个为设计师和艺术家提供调色板的网站，用户可以发现最新的手工挑选的调色板，适用于各种设计和创作场景。"
+            },
+            {
+                "title": "Image Baker - Create Android and iOS assets online",
+                "url": "https://www.img-bak.in/",
+                "icon": "https://www.img-bak.in/favicon.ico",
+                "categories": "设计创作",
+                "tags": "图像生成,安卓,苹果,资源管理",
+                "description": "Image Baker 是一个在线生成 iOS 和 Android 资源的工具。用户可以通过简单的三步操作生成所需的所有尺寸的优化图像，并将其下载为 zip 文件。"
+            },
+            {
+                "title": "Flowchart Maker & Online Diagram Software",
+                "url": "https://app.diagrams.net/",
+                "icon": "https://app.diagrams.net/favicon.ico",
+                "categories": "设计创作",
+                "tags": "流程图,图表,在线工具",
+                "description": "diagrams.net 是一个在线流程图和图表制作工具，适用于各种场景。"
+            },
+            {
+                "title": "中国色 - 传统颜色",
+                "url": "https://www.zhongguose.com/",
+                "icon": "http://zhongguose.com/favicon.ico",
+                "categories": "设计创作",
+                "tags": "中国色,传统颜色,色彩,设计,艺术",
+                "description": "中国色网站展示了中国传统颜色的丰富多样性，提供了每种颜色的名称、色值和相关信息，是设计和艺术创作的宝贵资源。"
+            },
+            {
+                "title": "Collection of Free English/Chinese Fonts for Commercial Use. 收录可商用的免费英文/汉字字体。",
+                "url": "https://github.com/jaywcjlove/free-font",
+                "icon": "",
+                "categories": "设计创作",
+                "tags": "免费字体,商用字体,开源字体,英文字体,汉字字体",
+                "description": "本项目基于已不再维护的字集开源项目，旨在收集汉字字体。创建了这个新项目，并新增了自动生成字体预览封面的脚本，重新添加了许多中文字体以及一些开源英文字体，以方便用户下载和使用。"
+            },
+            {
+                "title": "AI Color Palette Generator - Colorify Rocks",
+                "url": "https://colorify.rocks/",
+                "icon": "",
+                "categories": "设计创作",
+                "tags": "AI,颜色生成器,色彩搭配,设计工具",
+                "description": "Colorify Rocks 是一个AI驱动的颜色生成器，能够根据关键词或主题即时生成完美的颜色组合，适用于网站设计、品牌识别或室内设计等各种项目。"
+            },
+            {
+                "title": "用Slea.ai免费AI Logo生成器轻松创建专业Logo",
+                "url": "https://slea.ai/zh-CN",
+                "icon": "",
+                "categories": "设计创作",
+                "tags": "AI Logo生成器, 免费Logo设计, 在线Logo制作",
+                "description": "Slea.ai是一款免费AI Logo生成器，用户可以通过输入Logo名称和关键元素，快速生成专业定制的Logo。该工具提供高级编辑功能和无水印高清Logo下载，适用于企业、创作者和活动的Logo设计。"
+            },
+            {
+                "title": "Nutlope/logocreator: A free + OSS logo generator powered by Flux on Together AI",
+                "url": "https://github.com/Nutlope/logocreator",
+                "icon": "",
+                "categories": "设计创作",
+                "tags": "开源,标志生成器,人工智能",
+                "description": "一个免费的开源标志生成器，使用Together AI的Flux技术，能够在几秒钟内创建专业标志，并提供可定制的样式。"
+            },
+            {
+                "title": "AI Color - 独特的调色板生成器",
+                "url": "https://aicolors.co/",
+                "icon": "",
+                "categories": "设计创作",
+                "tags": "调色板,颜色生成,设计工具",
+                "description": "AI Color 是一个调色板生成器，用户可以浏览、编辑、可视化和生成独特的颜色调色板，适用于设计创作。"
+            }
+        ]
+    },
+    {
+        "title": "论坛资讯",
+        "type": "folder",
+        "children": [
+            {
+                "title": "暗安全技术小组",
+                "url": "https://forum.cnsec.org/",
+                "icon": "",
+                "categories": "论坛资讯",
+                "tags": "安全技术,讨论,资源共享",
+                "description": "暗安全技术小组是一个专注于安全技术讨论和资源共享的论坛，用户可以在这里交流安全领域的知识、分享资源、讨论问答等。"
+            },
+            {
+                "title": "看雪-安全社区|安全招聘|kanxue.com",
+                "url": "https://bbs.kanxue.com/",
+                "icon": "https://bbs.pediy.com/favicon.png",
+                "categories": "论坛资讯",
+                "tags": "安全社区,安全招聘,安全技术",
+                "description": "看雪是一个专注于安全技术讨论和资源共享的社区，用户可以在这里交流安全领域的知识、分享资源、讨论问答等。"
+            },
+            {
+                "title": "逆向未来 - Powered by Discuz!",
+                "url": "https://www.pd521.com/",
+                "icon": "",
+                "categories": "论坛资讯",
+                "tags": "逆向技术,资源共享,安全技术",
+                "description": "逆向未来是一个专注于逆向技术和资源共享的社区，用户可以在这里交流逆向工程、分享工具和教程、讨论安全技术等。"
+            },
+            {
+                "title": "一亩三分地社区: 留学|求职|投资|移民|生活 - 高信噪比 + 纯干货",
+                "url": "https://www.1point3acres.com/",
+                "icon": "https://www.1point3acres.com/bbs/favicon.ico",
+                "categories": "论坛资讯",
+                "tags": "留学,求职,投资,移民,生活",
+                "description": "一亩三分地社区是一个专注于留学、求职、投资、移民和生活的高信噪比华人社区，提供丰富的干货内容和实用信息。"
+            },
+            {
+                "title": "字节跳动 腾讯 阿里 职级对标",
+                "url": "https://duibiao.info/",
+                "icon": "https://duibiao.info/favicon.ico",
+                "categories": "论坛资讯",
+                "tags": "职级对标,薪酬,互联网公司",
+                "description": "本站提供字节跳动、腾讯、阿里等互联网公司的职级对标信息，包含薪酬表、工资计算器、公司列表等功能，帮助用户了解各大公司的薪酬水平和职级情况。"
+            },
+            {
+                "title": "NGA玩家社区",
+                "url": "https://bbs.nga.cn/",
+                "icon": "",
+                "categories": "论坛资讯",
+                "tags": "游戏,社区,讨论",
+                "description": "NGA玩家社区是一个综合性的游戏论坛，提供各种游戏的讨论区，包括魔兽世界、英雄联盟、DOTA2等。用户可以在这里分享游戏心得、讨论游戏策略、参与社区活动。"
+            },
+            {
+                "title": "首页 | JIKE",
+                "url": "https://jike.info/",
+                "icon": "https://jike.info/assets/images/touch/96.png",
+                "categories": "论坛资讯",
+                "tags": "社区,讨论,资讯",
+                "description": "JIKE是一个综合性的社区论坛，提供各种讨论区，包括活动优惠、影音书籍、技术分享等。用户可以在这里分享心得、讨论策略、参与社区活动。"
+            },
+            {
+                "title": "黑客新闻 --- Hacker News",
+                "url": "https://news.ycombinator.com/news",
+                "icon": "https://news.ycombinator.com/y18.svg",
+                "categories": "论坛资讯",
+                "tags": "黑客新闻,科技新闻,创业,编程",
+                "description": "黑客新闻（Hacker News）是一个由Y Combinator运营的社交新闻网站，主要关注计算机科学和创业相关的内容。用户可以在这里分享和讨论科技新闻、编程技巧、创业经验等。"
+            },
+            {
+                "title": "中国独立开发者项目列表",
+                "url": "https://github.com/XiaomingX/1000-chinese-independent-developer-plus",
+                "icon": "",
+                "categories": "论坛资讯",
+                "tags": "独立开发者,开源项目,中国",
+                "description": "1000个中国独立开发者项目汇总，展示了中国独立开发者的优秀作品，提供灵感、市场趋势和合作机会。"
+            },
+            {
+                "title": "车质网 - 第三方汽车投诉处理及品质评价平台",
+                "url": "https://www.12365auto.com/",
+                "icon": "",
+                "categories": "论坛资讯",
+                "tags": "汽车投诉, 品质评价, 汽车资讯, 用户反馈",
+                "description": "车质网是一个专注于汽车投诉处理和品质评价的第三方平台，提供汽车资讯、用户投诉、缺陷报道以及车型对比等服务，帮助消费者了解汽车质量问题并提供解决方案。"
+            }
+            
+        ]
+    },
+    {
+        "title": "服务运维",
+        "type": "folder",
+        "children": [
+            {
+                "title": "在APKPure使用免费在线APK下载器下载APK到安卓",
+                "url": "https://apkpure.com/cn/",
+                "icon": "https://apkpure.com/favicon.png",
+                "categories": "服务运维",
+                "tags": "APK下载,安卓应用,APKPure,软件下载",
+                "description": "APKPure是一个提供安卓应用下载的平台，用户可以通过该网站下载各种APK文件，包括游戏、应用和工具。"
+            },
+            {
+                "title": "Download missing DLL files for free | DLL‑files.com",
+                "url": "https://www.dll-files.com/",
+                "icon": "",
+                "categories": "服务运维",
+                "tags": "DLL下载,系统修复,DLL文件",
+                "description": "DLL‑files.com是一个提供DLL文件下载服务的网站，用户可以通过该网站搜索和下载各种缺失或损坏的DLL文件，以解决计算机上的DLL问题。"
+            },
+            {
+                "title": "FileZilla - 免费的FTP解决方案",
+                "url": "https://filezilla-project.org/",
+                "icon": "https://filezilla-project.org/images/favicon.ico",
+                "categories": "服务运维",
+                "tags": "FTP,FTPS,SFTP,开源,文件传输",
+                "description": "FileZilla是一个免费的FTP解决方案，支持FTP、FTPS和SFTP协议。它是开源软件，免费提供。FileZilla Pro还支持WebDAV、Amazon S3、Dropbox等多种协议。FileZilla Server是一个免费的开源FTP和FTPS服务器。"
+            },
+            {
+                "title": "Umami: 简单、快速、注重隐私的 Google Analytics 替代品",
+                "url": "https://github.com/umami-software/umami",
+                "icon": "",
+                "categories": "服务运维",
+                "tags": "统计,分析,隐私,开源",
+                "description": "Umami 是一个简单、快速、注重隐私的 Google Analytics 替代品。它支持 MariaDB、MySQL 和 PostgreSQL 数据库，并提供详细的安装和配置指南。"
+            },
+            {
+                "title": "ITDOG - 在线ping_在线tcping_网站测速_HTTP测速_API测速_路由追踪_在线MTR_DNS查询",
+                "url": "https://www.itdog.cn/",
+                "icon": "https://www.itdog.cn/favicon.ico",
+                "categories": "服务运维",
+                "tags": "在线ping,在线tcping,网站测速,HTTP测速,API测速,路由追踪,在线MTR,DNS查询",
+                "description": "ITDOG提供多种网络测试工具，包括在线Ping、Tcping、网站测速、HTTP测速、API测速、路由追踪、在线MTR和DNS查询，帮助用户了解网络状况和性能。"
+            },
+            {
+                "title": "IPCheck.ing - 查看我的 IP 地址 - 查询本机 IP 地址及归属地",
+                "url": "https://ipcheck.ing/#/",
+                "icon": "https://ipcheck.ing/logos/logo.svg",
+                "categories": "服务运维",
+                "tags": "IP地址,地理位置,网络连通性,WebRTC, DNS泄露,网速测试",
+                "description": "IPCheck.ing 是一个用于查看和查询本机 IP 地址及其归属地的工具。它提供了多种功能，包括 IP 信息查询、网络连通性测试、WebRTC 测试、DNS 泄露检测和网速测试。"
+            },
+            {
+                "title": "高精度IP地址归属地查询",
+                "url": "https://ping0.cc/",
+                "icon": "",
+                "categories": "服务运维",
+                "tags": "IP查询,IP定位,网络监控",
+                "description": "本站提供高精度IP地址归属地查询服务，支持IPv4和IPv6，提供IP位置、ASN数据、CIDR信息等详细信息。"
+            },
+            {
+                "title": "IP地址数据提供商 - IPinfo.io",
+                "url": "https://ipinfo.io/",
+                "icon": "https://ipinfo.io/favicon.ico",
+                "categories": "服务运维",
+                "tags": "IP地址,地理位置,隐私检测,公司查询,ASN",
+                "description": "IPinfo.io 提供准确的IP地址数据，包括地理位置查询、隐私检测、公司信息查询、ASN信息等，适用于网络安全、数据分析等场景。"
+            },
+            {
+                "title": "Freely available Web-Based Virtual Browser - Browser.lol",
+                "url": "https://browser.lol/",
+                "icon": "https://browser.lol/img/logo.svg",
+                "categories": "服务运维",
+                "tags": "虚拟浏览器,安全浏览,匿名浏览,解除限制,隐私保护",
+                "description": "Browser.lol 是一个基于网络的虚拟浏览器，允许用户在现有浏览器中安全地访问被阻止或有风险的网站，无需安装或配置。它提供了匿名浏览、解除地理限制、设备测试、漏洞测试等功能，确保用户的在线隐私和安全。"
+            },
+            {
+                "title": "Google 趋势",
+                "url": "https://trends.google.com/trends",
+                "icon": "",
+                "categories": "服务运维",
+                "tags": "搜索趋势,数据分析,热门话题",
+                "description": "Google 趋势提供了全球用户搜索行为的数据分析，帮助用户了解当前的热门话题和趋势。"
+            },
+            {
+                "title": "百度指数",
+                "url": "https://index.baidu.com/v2/index.html#/",
+                "icon": "https://index.baidu.com/favicon.ico",
+                "categories": "服务运维",
+                "tags": "数据分析,市场趋势,营销",
+                "description": "百度指数是一个数据分析平台，通过分析搜索数据，洞察市场趋势和用户行为，帮助企业制定营销策略。"
+            },
+            {
+                "title": "算数指数-巨量算数",
+                "url": "https://trendinsight.oceanengine.com/arithmetic-index",
+                "icon": "",
+                "categories": "服务运维",
+                "tags": "算数指数,数据分析,行业洞察",
+                "description": "巨量算数提供算数指数、算数榜单、行业指南、区域指南、创作指南和洞察报告，帮助用户进行数据分析和行业洞察。"
+            },
+            {
+                "title": "360趋势-大数据分享平台",
+                "url": "https://trends.so.com/",
+                "icon": "https://trends.so.com/favicon.ico",
+                "categories": "服务运维",
+                "tags": "大数据,趋势分析,数据分享",
+                "description": "360趋势是一个大数据分享平台，提供热门排行、历史专题等内容，涵盖娱乐、汽车、直播、化妆品、奢侈品、智能终端等多个领域。"
+            },
+            {
+                "title": "Wayback Machine",
+                "url": "https://web.archive.org/",
+                "icon": "",
+                "categories": "服务运维",
+                "tags": "互联网存档,网页保存,数字图书馆",
+                "description": "Wayback Machine 是一个由互联网档案馆发起的项目，旨在建立一个数字图书馆，保存互联网网站和其他文化遗产的数字形式。用户可以通过该平台捕获、管理和搜索数字内容。"
+            },
+            {
+                "title": "SimilarSiteSearch - 找到类似网站的最佳地点",
+                "url": "https://www.similarsitesearch.com/",
+                "icon": "https://www.similarsitesearch.com/favicon.ico",
+                "categories": "服务运维",
+                "tags": "类似网站,网站搜索,网站推荐",
+                "description": "SimilarSiteSearch 是一个帮助用户快速发现提供类似内容、功能和服务的网站的搜索引擎。用户可以通过输入网站名称来找到替代网站，并根据相关性或受欢迎程度进行排序。"
+            },
+            {
+                "title": "EU.org: 免费域名服务，自1996年起",
+                "url": "https://nic.eu.org/",
+                "icon": "https://nic.eu.org/favicon.png",
+                "categories": "服务运维",
+                "tags": "免费域名,非营利组织,域名注册",
+                "description": "EU.org的主要目标是为无法负担某些NIC费用的用户或非营利组织提供免费的子域名注册服务。"
+            },
+            {
+                "title": "Freenom",
+                "url": "https://my.freenom.com/clientarea.php",
+                "icon": "https://my.freenom.com/favicon.ico",
+                "categories": "服务运维",
+                "tags": "域名注册,免费域名,付费域名,域名续费,域名转移",
+                "description": "Freenom 是一家提供免费和付费域名注册服务的公司。用户可以在其网站上注册新域名、续费域名、转移域名，并使用其 API 进行开发。"
+            },
+            {
+                "title": "Cloud Servers — CLOUDCONE",
+                "url": "https://app.cloudcone.com/cloud",
+                "icon": "https://app.cloudcone.com/assets/img/favicon.png",
+                "categories": "服务运维",
+                "tags": "云服务器,高性能,SSD,可扩展,Windows,预算VPS",
+                "description": "CloudCone 提供高性能 SSD 云服务器，支持可扩展资源和 Windows 应用，适合预算有限的用户。"
+            },
+            {
+                "title": "Uptime Kuma: 自托管监控工具",
+                "url": "https://github.com/louislam/uptime-kuma",
+                "icon": "",
+                "categories": "服务运维",
+                "tags": "监控,自托管,网络安全,开源,工具",
+                "description": "Uptime Kuma 是一个易于使用的自托管监控工具，支持HTTP(s)、TCP、Ping等多种监控方式，提供丰富的通知服务和多语言支持。"
+            }
+        ]
+    }
+]
