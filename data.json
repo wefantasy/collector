@@ -4,6 +4,14 @@
         "type": "folder",
         "children": [
             {
+                "title": "Glance - 一个自托管的信息聚合仪表盘",
+                "url": "https://github.com/glanceapp/glance",
+                "icon": "",
+                "categories": "生活办公",
+                "tags": "自托管,仪表盘,信息聚合,RSS阅读器,首页管理",
+                "description": "Glance 是一个自托管的仪表盘工具，能够将多个信息源汇聚到一个页面，包括 RSS 订阅、Subreddit 帖子、Hacker News 资讯、天气预报、YouTube 频道更新、Twitch 频道、市场价格、Docker 容器状态、服务器统计等。它轻量、快速，并支持多种自定义选项。"
+            },
+            {
                 "title": "深言达意 – 找词找句",
                 "url": "https://www.shenyandayi.com/",
                 "icon": "",
@@ -334,6 +342,14 @@
                 ]
             },
             {
+                "title": "Smithery - Model Context Protocol Registry",
+                "url": "https://smithery.ai/",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "AI集成,开发工具,模型协议,技能扩展",
+                "description": "Smithery 是一个用于 AI 代理的集成工具，提供 7252 个技能和扩展组件，帮助开发者将 AI 与 Supabase、Mem0 Memory Tool、Vapi MCP Server 等服务进行无缝对接。它支持 GitHub API、Slack、Notion 等服务，并提供强大的工作流管理能力。"
+            },
+            {
                 "title": "gitignore.io - 为你的项目创建必要的 .gitignore 文件",
                 "url": "https://www.toptal.com/developers/gitignore",
                 "icon": "https://www.toptal.com/developers/gitignore/img/lightning.svg",
@@ -564,6 +580,14 @@
                 "categories": "编程开发",
                 "tags": "开源,代码库,知识共享",
                 "description": "DeepWiki是一个帮助用户了解代码仓库的工具，分析仓库架构、生成架构文档，如Visual Studio Code、LangChain等热门开源项目。这是一个以知识共享为核心的开放平台。"
+            },
+            {
+                "title": "GitHub Trends",
+                "url": "https://www.github-trends.dev/",
+                "icon": "",
+                "categories": "编程开发",
+                "tags": "开源,GitHub,趋势分析",
+                "description": "GitHub Trends 是一个帮助开发者分析开源项目趋势的网站，可以比较 GitHub 仓库的星标增长、提交次数、发布版本等数据，为开发者决策提供参考。"
             }
         ]
     },
@@ -727,6 +751,14 @@
         "title": "人工智障",
         "type": "folder",
         "children": [
+            {
+                "title": "SuperCLUE中文大模型测评基准——评测榜单",
+                "url": "https://www.superclueai.com/",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "大模型,人工智能,测评基准,排行榜,模型评测",
+                "description": "SuperCLUE是一个针对中文大模型的综合性测评基准，提供多个维度的模型测评结果，包括视觉推理、忠实性幻觉、文生图、智能体等。最新发布的2025年5月测评成绩涵盖多家机构的大模型表现，为行业提供参考。"
+            },
             {
                 "title": "AI Model & API Providers Analysis",
                 "url": "https://artificialanalysis.ai/",
@@ -1194,6 +1226,14 @@
                 ]
             },
             {
+                "title": "通辽宇宙知识库 - 探索奇葩小国、硬核狠人与二次元谐音梗的互动知识平台",
+                "url": "https://www.tongliaouniverse.cn/",
+                "icon": "",
+                "categories": "科研教育",
+                "tags": "奇葩小国,硬核狠人,二次元谐音梗,历史",
+                "description": "通辽宇宙知识库是一个互动知识平台，汇集世界上各种奇葩小国、硬核狠人以及二次元谐音梗的内容。该平台整合了B站UP主小约翰可汗的视频内容，并通过AI辅助整理，提供结构化的信息资源，方便爱好者探索与查阅。"
+            },
+            {
                 "title": "dblp: computer science bibliography",
                 "url": "https://dblp.org/",
                 "icon": "https://dblp.org/favicon.ico",
@@ -1653,7 +1693,6 @@
                 "tags": "汽车投诉, 品质评价, 汽车资讯, 用户反馈",
                 "description": "车质网是一个专注于汽车投诉处理和品质评价的第三方平台，提供汽车资讯、用户投诉、缺陷报道以及车型对比等服务，帮助消费者了解汽车质量问题并提供解决方案。"
             }
-            
         ]
     },
     {
