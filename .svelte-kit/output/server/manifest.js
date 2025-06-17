@@ -1,0 +1,29 @@
+export const manifest = (() => {
+function __memo(fn) {
+	let value;
+	return () => value ??= (value = fn());
+}
+
+return {
+	appDir: "_app",
+	appPath: "_app",
+	assets: new Set(["data.json","favicon.svg","img/dark.jpg","img/light.jpg"]),
+	mimeTypes: {".json":"application/json",".svg":"image/svg+xml",".jpg":"image/jpeg"},
+	_: {
+		client: {start:"_app/immutable/entry/start.D6YMItcY.js",app:"_app/immutable/entry/app.CcVg70BZ.js",imports:["_app/immutable/entry/start.D6YMItcY.js","_app/immutable/chunks/Caowywx8.js","_app/immutable/chunks/BCYs_ujV.js","_app/immutable/entry/app.CcVg70BZ.js","_app/immutable/chunks/BCYs_ujV.js","_app/immutable/chunks/DF3BP7tu.js","_app/immutable/chunks/BAuLwB1o.js","_app/immutable/chunks/C9wi6P5u.js"],stylesheets:[],fonts:[],uses_env_dynamic_public:false},
+		nodes: [
+			__memo(() => import('./nodes/0.js')),
+			__memo(() => import('./nodes/1.js'))
+		],
+		routes: [
+			
+		],
+		prerendered_routes: new Set(["/","/data.json"]),
+		matchers: async () => {
+			
+			return {  };
+		},
+		server_assets: {}
+	}
+}
+})();
